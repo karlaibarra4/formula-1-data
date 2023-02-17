@@ -1,0 +1,391 @@
+circuitId,circuitName,lat,long,country,url
+adelaide,Adelaide Street Circuit,-34.9272,138.617,Australia,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+ain-diab,Ain Diab,33.5786,-7.6875,Morocco,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+aintree,Aintree,53.4769,-2.94056,UK,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+americas,Circuit of the Americas,30.1328,-97.6411,USA,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+anderstorp,Scandinavian Raceway,57.2653,13.6042,Sweden,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+avus,AVUS,52.4806,13.2514,Germany,http://en.wikipedia.org/wiki/AVUS
+bahrain,Bahrain International Circuit,26.0325,50.5106,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+baku,Baku City Circuit,40.3725,49.8533,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+boavista,Circuito da Boavista,41.1705,-8.67325,Portugal,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+brands_hatch,Brands Hatch,51.3569,0.263056,UK,http://en.wikipedia.org/wiki/Brands_Hatch
+bremgarten,Circuit Bremgarten,46.9589,7.40194,Switzerland,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+buddh,Buddh International Circuit,28.3487,77.5331,India,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+charade,Charade Circuit,45.7472,3.03889,France,http://en.wikipedia.org/wiki/Charade_Circuit
+dallas,Fair Park,32.7774,-96.7587,USA,http://en.wikipedia.org/wiki/Fair_Park
+detroit,Detroit Street Circuit,42.3298,-83.0401,USA,http://en.wikipedia.org/wiki/Detroit_street_circuit
+dijon,Dijon-Prenois,47.3625,4.89913,France,http://en.wikipedia.org/wiki/Dijon-Prenois
+donington,Donington Park,52.8306,-1.37528,UK,http://en.wikipedia.org/wiki/Donington_Park
+essarts,Rouen-Les-Essarts,49.3306,1.00458,France,http://en.wikipedia.org/wiki/Rouen-Les-Essarts
+estoril,Autódromo do Estoril,38.7506,-9.39417,Portugal,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+fuji,Fuji Speedway,35.3717,138.927,Japan,http://en.wikipedia.org/wiki/Fuji_Speedway
+galvez,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,Argentina,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+george,Prince George Circuit,-33.0486,27.8736,South Africa,http://en.wikipedia.org/wiki/Prince_George_Circuit
+hockenheimring,Hockenheimring,49.3278,8.56583,Germany,http://en.wikipedia.org/wiki/Hockenheimring
+hungaroring,Hungaroring,47.5789,19.2486,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+indianapolis,Indianapolis Motor Speedway,39.795,-86.2347,USA,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+interlagos,Autódromo José Carlos Pace,-23.7036,-46.6997,Brazil,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+istanbul,Istanbul Park,40.9517,29.405,Turkey,http://en.wikipedia.org/wiki/Istanbul_Park
+adelaide,Adelaide Street Circuit,-34.9272,138.617,Australia,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+ain-diab,Ain Diab,33.5786,-7.6875,Morocco,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+aintree,Aintree,53.4769,-2.94056,UK,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+americas,Circuit of the Americas,30.1328,-97.6411,USA,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+anderstorp,Scandinavian Raceway,57.2653,13.6042,Sweden,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+avus,AVUS,52.4806,13.2514,Germany,http://en.wikipedia.org/wiki/AVUS
+bahrain,Bahrain International Circuit,26.0325,50.5106,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+baku,Baku City Circuit,40.3725,49.8533,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+boavista,Circuito da Boavista,41.1705,-8.67325,Portugal,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+brands_hatch,Brands Hatch,51.3569,0.263056,UK,http://en.wikipedia.org/wiki/Brands_Hatch
+bremgarten,Circuit Bremgarten,46.9589,7.40194,Switzerland,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+buddh,Buddh International Circuit,28.3487,77.5331,India,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+charade,Charade Circuit,45.7472,3.03889,France,http://en.wikipedia.org/wiki/Charade_Circuit
+dallas,Fair Park,32.7774,-96.7587,USA,http://en.wikipedia.org/wiki/Fair_Park
+detroit,Detroit Street Circuit,42.3298,-83.0401,USA,http://en.wikipedia.org/wiki/Detroit_street_circuit
+dijon,Dijon-Prenois,47.3625,4.89913,France,http://en.wikipedia.org/wiki/Dijon-Prenois
+donington,Donington Park,52.8306,-1.37528,UK,http://en.wikipedia.org/wiki/Donington_Park
+essarts,Rouen-Les-Essarts,49.3306,1.00458,France,http://en.wikipedia.org/wiki/Rouen-Les-Essarts
+estoril,Autódromo do Estoril,38.7506,-9.39417,Portugal,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+fuji,Fuji Speedway,35.3717,138.927,Japan,http://en.wikipedia.org/wiki/Fuji_Speedway
+galvez,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,Argentina,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+george,Prince George Circuit,-33.0486,27.8736,South Africa,http://en.wikipedia.org/wiki/Prince_George_Circuit
+hockenheimring,Hockenheimring,49.3278,8.56583,Germany,http://en.wikipedia.org/wiki/Hockenheimring
+hungaroring,Hungaroring,47.5789,19.2486,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+indianapolis,Indianapolis Motor Speedway,39.795,-86.2347,USA,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+interlagos,Autódromo José Carlos Pace,-23.7036,-46.6997,Brazil,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+istanbul,Istanbul Park,40.9517,29.405,Turkey,http://en.wikipedia.org/wiki/Istanbul_Park
+adelaide,Adelaide Street Circuit,-34.9272,138.617,Australia,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+ain-diab,Ain Diab,33.5786,-7.6875,Morocco,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+aintree,Aintree,53.4769,-2.94056,UK,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+americas,Circuit of the Americas,30.1328,-97.6411,USA,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+anderstorp,Scandinavian Raceway,57.2653,13.6042,Sweden,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+avus,AVUS,52.4806,13.2514,Germany,http://en.wikipedia.org/wiki/AVUS
+bahrain,Bahrain International Circuit,26.0325,50.5106,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+baku,Baku City Circuit,40.3725,49.8533,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+boavista,Circuito da Boavista,41.1705,-8.67325,Portugal,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+brands_hatch,Brands Hatch,51.3569,0.263056,UK,http://en.wikipedia.org/wiki/Brands_Hatch
+bremgarten,Circuit Bremgarten,46.9589,7.40194,Switzerland,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+buddh,Buddh International Circuit,28.3487,77.5331,India,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+charade,Charade Circuit,45.7472,3.03889,France,http://en.wikipedia.org/wiki/Charade_Circuit
+dallas,Fair Park,32.7774,-96.7587,USA,http://en.wikipedia.org/wiki/Fair_Park
+detroit,Detroit Street Circuit,42.3298,-83.0401,USA,http://en.wikipedia.org/wiki/Detroit_street_circuit
+dijon,Dijon-Prenois,47.3625,4.89913,France,http://en.wikipedia.org/wiki/Dijon-Prenois
+donington,Donington Park,52.8306,-1.37528,UK,http://en.wikipedia.org/wiki/Donington_Park
+essarts,Rouen-Les-Essarts,49.3306,1.00458,France,http://en.wikipedia.org/wiki/Rouen-Les-Essarts
+estoril,Autódromo do Estoril,38.7506,-9.39417,Portugal,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+fuji,Fuji Speedway,35.3717,138.927,Japan,http://en.wikipedia.org/wiki/Fuji_Speedway
+galvez,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,Argentina,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+george,Prince George Circuit,-33.0486,27.8736,South Africa,http://en.wikipedia.org/wiki/Prince_George_Circuit
+hockenheimring,Hockenheimring,49.3278,8.56583,Germany,http://en.wikipedia.org/wiki/Hockenheimring
+hungaroring,Hungaroring,47.5789,19.2486,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+indianapolis,Indianapolis Motor Speedway,39.795,-86.2347,USA,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+interlagos,Autódromo José Carlos Pace,-23.7036,-46.6997,Brazil,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+istanbul,Istanbul Park,40.9517,29.405,Turkey,http://en.wikipedia.org/wiki/Istanbul_Park
+adelaide,Adelaide Street Circuit,-34.9272,138.617,Australia,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+ain-diab,Ain Diab,33.5786,-7.6875,Morocco,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+aintree,Aintree,53.4769,-2.94056,UK,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+americas,Circuit of the Americas,30.1328,-97.6411,USA,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+anderstorp,Scandinavian Raceway,57.2653,13.6042,Sweden,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+avus,AVUS,52.4806,13.2514,Germany,http://en.wikipedia.org/wiki/AVUS
+bahrain,Bahrain International Circuit,26.0325,50.5106,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+baku,Baku City Circuit,40.3725,49.8533,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+boavista,Circuito da Boavista,41.1705,-8.67325,Portugal,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+brands_hatch,Brands Hatch,51.3569,0.263056,UK,http://en.wikipedia.org/wiki/Brands_Hatch
+bremgarten,Circuit Bremgarten,46.9589,7.40194,Switzerland,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+buddh,Buddh International Circuit,28.3487,77.5331,India,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+charade,Charade Circuit,45.7472,3.03889,France,http://en.wikipedia.org/wiki/Charade_Circuit
+dallas,Fair Park,32.7774,-96.7587,USA,http://en.wikipedia.org/wiki/Fair_Park
+detroit,Detroit Street Circuit,42.3298,-83.0401,USA,http://en.wikipedia.org/wiki/Detroit_street_circuit
+dijon,Dijon-Prenois,47.3625,4.89913,France,http://en.wikipedia.org/wiki/Dijon-Prenois
+donington,Donington Park,52.8306,-1.37528,UK,http://en.wikipedia.org/wiki/Donington_Park
+essarts,Rouen-Les-Essarts,49.3306,1.00458,France,http://en.wikipedia.org/wiki/Rouen-Les-Essarts
+estoril,Autódromo do Estoril,38.7506,-9.39417,Portugal,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+fuji,Fuji Speedway,35.3717,138.927,Japan,http://en.wikipedia.org/wiki/Fuji_Speedway
+galvez,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,Argentina,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+george,Prince George Circuit,-33.0486,27.8736,South Africa,http://en.wikipedia.org/wiki/Prince_George_Circuit
+hockenheimring,Hockenheimring,49.3278,8.56583,Germany,http://en.wikipedia.org/wiki/Hockenheimring
+hungaroring,Hungaroring,47.5789,19.2486,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+indianapolis,Indianapolis Motor Speedway,39.795,-86.2347,USA,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+interlagos,Autódromo José Carlos Pace,-23.7036,-46.6997,Brazil,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+istanbul,Istanbul Park,40.9517,29.405,Turkey,http://en.wikipedia.org/wiki/Istanbul_Park
+adelaide,Adelaide Street Circuit,-34.9272,138.617,Australia,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+ain-diab,Ain Diab,33.5786,-7.6875,Morocco,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+aintree,Aintree,53.4769,-2.94056,UK,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+americas,Circuit of the Americas,30.1328,-97.6411,USA,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+anderstorp,Scandinavian Raceway,57.2653,13.6042,Sweden,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+avus,AVUS,52.4806,13.2514,Germany,http://en.wikipedia.org/wiki/AVUS
+bahrain,Bahrain International Circuit,26.0325,50.5106,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+baku,Baku City Circuit,40.3725,49.8533,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+boavista,Circuito da Boavista,41.1705,-8.67325,Portugal,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+brands_hatch,Brands Hatch,51.3569,0.263056,UK,http://en.wikipedia.org/wiki/Brands_Hatch
+bremgarten,Circuit Bremgarten,46.9589,7.40194,Switzerland,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+buddh,Buddh International Circuit,28.3487,77.5331,India,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+charade,Charade Circuit,45.7472,3.03889,France,http://en.wikipedia.org/wiki/Charade_Circuit
+dallas,Fair Park,32.7774,-96.7587,USA,http://en.wikipedia.org/wiki/Fair_Park
+detroit,Detroit Street Circuit,42.3298,-83.0401,USA,http://en.wikipedia.org/wiki/Detroit_street_circuit
+dijon,Dijon-Prenois,47.3625,4.89913,France,http://en.wikipedia.org/wiki/Dijon-Prenois
+donington,Donington Park,52.8306,-1.37528,UK,http://en.wikipedia.org/wiki/Donington_Park
+essarts,Rouen-Les-Essarts,49.3306,1.00458,France,http://en.wikipedia.org/wiki/Rouen-Les-Essarts
+estoril,Autódromo do Estoril,38.7506,-9.39417,Portugal,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+fuji,Fuji Speedway,35.3717,138.927,Japan,http://en.wikipedia.org/wiki/Fuji_Speedway
+galvez,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,Argentina,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+george,Prince George Circuit,-33.0486,27.8736,South Africa,http://en.wikipedia.org/wiki/Prince_George_Circuit
+hockenheimring,Hockenheimring,49.3278,8.56583,Germany,http://en.wikipedia.org/wiki/Hockenheimring
+hungaroring,Hungaroring,47.5789,19.2486,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+indianapolis,Indianapolis Motor Speedway,39.795,-86.2347,USA,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+interlagos,Autódromo José Carlos Pace,-23.7036,-46.6997,Brazil,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+istanbul,Istanbul Park,40.9517,29.405,Turkey,http://en.wikipedia.org/wiki/Istanbul_Park
+adelaide,Adelaide Street Circuit,-34.9272,138.617,Australia,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+ain-diab,Ain Diab,33.5786,-7.6875,Morocco,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+aintree,Aintree,53.4769,-2.94056,UK,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+americas,Circuit of the Americas,30.1328,-97.6411,USA,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+anderstorp,Scandinavian Raceway,57.2653,13.6042,Sweden,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+avus,AVUS,52.4806,13.2514,Germany,http://en.wikipedia.org/wiki/AVUS
+bahrain,Bahrain International Circuit,26.0325,50.5106,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+baku,Baku City Circuit,40.3725,49.8533,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+boavista,Circuito da Boavista,41.1705,-8.67325,Portugal,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+brands_hatch,Brands Hatch,51.3569,0.263056,UK,http://en.wikipedia.org/wiki/Brands_Hatch
+bremgarten,Circuit Bremgarten,46.9589,7.40194,Switzerland,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+buddh,Buddh International Circuit,28.3487,77.5331,India,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+charade,Charade Circuit,45.7472,3.03889,France,http://en.wikipedia.org/wiki/Charade_Circuit
+dallas,Fair Park,32.7774,-96.7587,USA,http://en.wikipedia.org/wiki/Fair_Park
+detroit,Detroit Street Circuit,42.3298,-83.0401,USA,http://en.wikipedia.org/wiki/Detroit_street_circuit
+dijon,Dijon-Prenois,47.3625,4.89913,France,http://en.wikipedia.org/wiki/Dijon-Prenois
+donington,Donington Park,52.8306,-1.37528,UK,http://en.wikipedia.org/wiki/Donington_Park
+essarts,Rouen-Les-Essarts,49.3306,1.00458,France,http://en.wikipedia.org/wiki/Rouen-Les-Essarts
+estoril,Autódromo do Estoril,38.7506,-9.39417,Portugal,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+fuji,Fuji Speedway,35.3717,138.927,Japan,http://en.wikipedia.org/wiki/Fuji_Speedway
+galvez,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,Argentina,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+george,Prince George Circuit,-33.0486,27.8736,South Africa,http://en.wikipedia.org/wiki/Prince_George_Circuit
+hockenheimring,Hockenheimring,49.3278,8.56583,Germany,http://en.wikipedia.org/wiki/Hockenheimring
+hungaroring,Hungaroring,47.5789,19.2486,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+indianapolis,Indianapolis Motor Speedway,39.795,-86.2347,USA,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+interlagos,Autódromo José Carlos Pace,-23.7036,-46.6997,Brazil,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+istanbul,Istanbul Park,40.9517,29.405,Turkey,http://en.wikipedia.org/wiki/Istanbul_Park
+adelaide,Adelaide Street Circuit,-34.9272,138.617,Australia,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+ain-diab,Ain Diab,33.5786,-7.6875,Morocco,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+aintree,Aintree,53.4769,-2.94056,UK,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+americas,Circuit of the Americas,30.1328,-97.6411,USA,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+anderstorp,Scandinavian Raceway,57.2653,13.6042,Sweden,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+avus,AVUS,52.4806,13.2514,Germany,http://en.wikipedia.org/wiki/AVUS
+bahrain,Bahrain International Circuit,26.0325,50.5106,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+baku,Baku City Circuit,40.3725,49.8533,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+boavista,Circuito da Boavista,41.1705,-8.67325,Portugal,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+brands_hatch,Brands Hatch,51.3569,0.263056,UK,http://en.wikipedia.org/wiki/Brands_Hatch
+bremgarten,Circuit Bremgarten,46.9589,7.40194,Switzerland,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+buddh,Buddh International Circuit,28.3487,77.5331,India,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+charade,Charade Circuit,45.7472,3.03889,France,http://en.wikipedia.org/wiki/Charade_Circuit
+dallas,Fair Park,32.7774,-96.7587,USA,http://en.wikipedia.org/wiki/Fair_Park
+detroit,Detroit Street Circuit,42.3298,-83.0401,USA,http://en.wikipedia.org/wiki/Detroit_street_circuit
+dijon,Dijon-Prenois,47.3625,4.89913,France,http://en.wikipedia.org/wiki/Dijon-Prenois
+donington,Donington Park,52.8306,-1.37528,UK,http://en.wikipedia.org/wiki/Donington_Park
+essarts,Rouen-Les-Essarts,49.3306,1.00458,France,http://en.wikipedia.org/wiki/Rouen-Les-Essarts
+estoril,Autódromo do Estoril,38.7506,-9.39417,Portugal,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+fuji,Fuji Speedway,35.3717,138.927,Japan,http://en.wikipedia.org/wiki/Fuji_Speedway
+galvez,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,Argentina,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+george,Prince George Circuit,-33.0486,27.8736,South Africa,http://en.wikipedia.org/wiki/Prince_George_Circuit
+hockenheimring,Hockenheimring,49.3278,8.56583,Germany,http://en.wikipedia.org/wiki/Hockenheimring
+hungaroring,Hungaroring,47.5789,19.2486,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+indianapolis,Indianapolis Motor Speedway,39.795,-86.2347,USA,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+interlagos,Autódromo José Carlos Pace,-23.7036,-46.6997,Brazil,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+istanbul,Istanbul Park,40.9517,29.405,Turkey,http://en.wikipedia.org/wiki/Istanbul_Park
+adelaide,Adelaide Street Circuit,-34.9272,138.617,Australia,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+ain-diab,Ain Diab,33.5786,-7.6875,Morocco,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+aintree,Aintree,53.4769,-2.94056,UK,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+americas,Circuit of the Americas,30.1328,-97.6411,USA,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+anderstorp,Scandinavian Raceway,57.2653,13.6042,Sweden,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+avus,AVUS,52.4806,13.2514,Germany,http://en.wikipedia.org/wiki/AVUS
+bahrain,Bahrain International Circuit,26.0325,50.5106,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+baku,Baku City Circuit,40.3725,49.8533,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+boavista,Circuito da Boavista,41.1705,-8.67325,Portugal,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+brands_hatch,Brands Hatch,51.3569,0.263056,UK,http://en.wikipedia.org/wiki/Brands_Hatch
+bremgarten,Circuit Bremgarten,46.9589,7.40194,Switzerland,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+buddh,Buddh International Circuit,28.3487,77.5331,India,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+charade,Charade Circuit,45.7472,3.03889,France,http://en.wikipedia.org/wiki/Charade_Circuit
+dallas,Fair Park,32.7774,-96.7587,USA,http://en.wikipedia.org/wiki/Fair_Park
+detroit,Detroit Street Circuit,42.3298,-83.0401,USA,http://en.wikipedia.org/wiki/Detroit_street_circuit
+dijon,Dijon-Prenois,47.3625,4.89913,France,http://en.wikipedia.org/wiki/Dijon-Prenois
+donington,Donington Park,52.8306,-1.37528,UK,http://en.wikipedia.org/wiki/Donington_Park
+essarts,Rouen-Les-Essarts,49.3306,1.00458,France,http://en.wikipedia.org/wiki/Rouen-Les-Essarts
+estoril,Autódromo do Estoril,38.7506,-9.39417,Portugal,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+fuji,Fuji Speedway,35.3717,138.927,Japan,http://en.wikipedia.org/wiki/Fuji_Speedway
+galvez,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,Argentina,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+george,Prince George Circuit,-33.0486,27.8736,South Africa,http://en.wikipedia.org/wiki/Prince_George_Circuit
+hockenheimring,Hockenheimring,49.3278,8.56583,Germany,http://en.wikipedia.org/wiki/Hockenheimring
+hungaroring,Hungaroring,47.5789,19.2486,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+indianapolis,Indianapolis Motor Speedway,39.795,-86.2347,USA,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+interlagos,Autódromo José Carlos Pace,-23.7036,-46.6997,Brazil,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+istanbul,Istanbul Park,40.9517,29.405,Turkey,http://en.wikipedia.org/wiki/Istanbul_Park
+adelaide,Adelaide Street Circuit,-34.9272,138.617,Australia,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+ain-diab,Ain Diab,33.5786,-7.6875,Morocco,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+aintree,Aintree,53.4769,-2.94056,UK,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+americas,Circuit of the Americas,30.1328,-97.6411,USA,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+anderstorp,Scandinavian Raceway,57.2653,13.6042,Sweden,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+avus,AVUS,52.4806,13.2514,Germany,http://en.wikipedia.org/wiki/AVUS
+bahrain,Bahrain International Circuit,26.0325,50.5106,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+baku,Baku City Circuit,40.3725,49.8533,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+boavista,Circuito da Boavista,41.1705,-8.67325,Portugal,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+brands_hatch,Brands Hatch,51.3569,0.263056,UK,http://en.wikipedia.org/wiki/Brands_Hatch
+bremgarten,Circuit Bremgarten,46.9589,7.40194,Switzerland,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+buddh,Buddh International Circuit,28.3487,77.5331,India,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+charade,Charade Circuit,45.7472,3.03889,France,http://en.wikipedia.org/wiki/Charade_Circuit
+dallas,Fair Park,32.7774,-96.7587,USA,http://en.wikipedia.org/wiki/Fair_Park
+detroit,Detroit Street Circuit,42.3298,-83.0401,USA,http://en.wikipedia.org/wiki/Detroit_street_circuit
+dijon,Dijon-Prenois,47.3625,4.89913,France,http://en.wikipedia.org/wiki/Dijon-Prenois
+donington,Donington Park,52.8306,-1.37528,UK,http://en.wikipedia.org/wiki/Donington_Park
+essarts,Rouen-Les-Essarts,49.3306,1.00458,France,http://en.wikipedia.org/wiki/Rouen-Les-Essarts
+estoril,Autódromo do Estoril,38.7506,-9.39417,Portugal,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+fuji,Fuji Speedway,35.3717,138.927,Japan,http://en.wikipedia.org/wiki/Fuji_Speedway
+galvez,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,Argentina,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+george,Prince George Circuit,-33.0486,27.8736,South Africa,http://en.wikipedia.org/wiki/Prince_George_Circuit
+hockenheimring,Hockenheimring,49.3278,8.56583,Germany,http://en.wikipedia.org/wiki/Hockenheimring
+hungaroring,Hungaroring,47.5789,19.2486,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+indianapolis,Indianapolis Motor Speedway,39.795,-86.2347,USA,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+interlagos,Autódromo José Carlos Pace,-23.7036,-46.6997,Brazil,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+istanbul,Istanbul Park,40.9517,29.405,Turkey,http://en.wikipedia.org/wiki/Istanbul_Park
+adelaide,Adelaide Street Circuit,-34.9272,138.617,Australia,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+ain-diab,Ain Diab,33.5786,-7.6875,Morocco,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+aintree,Aintree,53.4769,-2.94056,UK,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+americas,Circuit of the Americas,30.1328,-97.6411,USA,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+anderstorp,Scandinavian Raceway,57.2653,13.6042,Sweden,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+avus,AVUS,52.4806,13.2514,Germany,http://en.wikipedia.org/wiki/AVUS
+bahrain,Bahrain International Circuit,26.0325,50.5106,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+baku,Baku City Circuit,40.3725,49.8533,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+boavista,Circuito da Boavista,41.1705,-8.67325,Portugal,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+brands_hatch,Brands Hatch,51.3569,0.263056,UK,http://en.wikipedia.org/wiki/Brands_Hatch
+bremgarten,Circuit Bremgarten,46.9589,7.40194,Switzerland,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+buddh,Buddh International Circuit,28.3487,77.5331,India,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+charade,Charade Circuit,45.7472,3.03889,France,http://en.wikipedia.org/wiki/Charade_Circuit
+dallas,Fair Park,32.7774,-96.7587,USA,http://en.wikipedia.org/wiki/Fair_Park
+detroit,Detroit Street Circuit,42.3298,-83.0401,USA,http://en.wikipedia.org/wiki/Detroit_street_circuit
+dijon,Dijon-Prenois,47.3625,4.89913,France,http://en.wikipedia.org/wiki/Dijon-Prenois
+donington,Donington Park,52.8306,-1.37528,UK,http://en.wikipedia.org/wiki/Donington_Park
+essarts,Rouen-Les-Essarts,49.3306,1.00458,France,http://en.wikipedia.org/wiki/Rouen-Les-Essarts
+estoril,Autódromo do Estoril,38.7506,-9.39417,Portugal,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+fuji,Fuji Speedway,35.3717,138.927,Japan,http://en.wikipedia.org/wiki/Fuji_Speedway
+galvez,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,Argentina,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+george,Prince George Circuit,-33.0486,27.8736,South Africa,http://en.wikipedia.org/wiki/Prince_George_Circuit
+hockenheimring,Hockenheimring,49.3278,8.56583,Germany,http://en.wikipedia.org/wiki/Hockenheimring
+hungaroring,Hungaroring,47.5789,19.2486,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+indianapolis,Indianapolis Motor Speedway,39.795,-86.2347,USA,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+interlagos,Autódromo José Carlos Pace,-23.7036,-46.6997,Brazil,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+istanbul,Istanbul Park,40.9517,29.405,Turkey,http://en.wikipedia.org/wiki/Istanbul_Park
+adelaide,Adelaide Street Circuit,-34.9272,138.617,Australia,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+ain-diab,Ain Diab,33.5786,-7.6875,Morocco,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+aintree,Aintree,53.4769,-2.94056,UK,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+americas,Circuit of the Americas,30.1328,-97.6411,USA,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+anderstorp,Scandinavian Raceway,57.2653,13.6042,Sweden,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+avus,AVUS,52.4806,13.2514,Germany,http://en.wikipedia.org/wiki/AVUS
+bahrain,Bahrain International Circuit,26.0325,50.5106,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+baku,Baku City Circuit,40.3725,49.8533,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+boavista,Circuito da Boavista,41.1705,-8.67325,Portugal,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+brands_hatch,Brands Hatch,51.3569,0.263056,UK,http://en.wikipedia.org/wiki/Brands_Hatch
+bremgarten,Circuit Bremgarten,46.9589,7.40194,Switzerland,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+buddh,Buddh International Circuit,28.3487,77.5331,India,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+charade,Charade Circuit,45.7472,3.03889,France,http://en.wikipedia.org/wiki/Charade_Circuit
+dallas,Fair Park,32.7774,-96.7587,USA,http://en.wikipedia.org/wiki/Fair_Park
+detroit,Detroit Street Circuit,42.3298,-83.0401,USA,http://en.wikipedia.org/wiki/Detroit_street_circuit
+dijon,Dijon-Prenois,47.3625,4.89913,France,http://en.wikipedia.org/wiki/Dijon-Prenois
+donington,Donington Park,52.8306,-1.37528,UK,http://en.wikipedia.org/wiki/Donington_Park
+essarts,Rouen-Les-Essarts,49.3306,1.00458,France,http://en.wikipedia.org/wiki/Rouen-Les-Essarts
+estoril,Autódromo do Estoril,38.7506,-9.39417,Portugal,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+fuji,Fuji Speedway,35.3717,138.927,Japan,http://en.wikipedia.org/wiki/Fuji_Speedway
+galvez,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,Argentina,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+george,Prince George Circuit,-33.0486,27.8736,South Africa,http://en.wikipedia.org/wiki/Prince_George_Circuit
+hockenheimring,Hockenheimring,49.3278,8.56583,Germany,http://en.wikipedia.org/wiki/Hockenheimring
+hungaroring,Hungaroring,47.5789,19.2486,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+indianapolis,Indianapolis Motor Speedway,39.795,-86.2347,USA,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+interlagos,Autódromo José Carlos Pace,-23.7036,-46.6997,Brazil,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+istanbul,Istanbul Park,40.9517,29.405,Turkey,http://en.wikipedia.org/wiki/Istanbul_Park
+adelaide,Adelaide Street Circuit,-34.9272,138.617,Australia,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+ain-diab,Ain Diab,33.5786,-7.6875,Morocco,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+aintree,Aintree,53.4769,-2.94056,UK,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+americas,Circuit of the Americas,30.1328,-97.6411,USA,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+anderstorp,Scandinavian Raceway,57.2653,13.6042,Sweden,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+avus,AVUS,52.4806,13.2514,Germany,http://en.wikipedia.org/wiki/AVUS
+bahrain,Bahrain International Circuit,26.0325,50.5106,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+baku,Baku City Circuit,40.3725,49.8533,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+boavista,Circuito da Boavista,41.1705,-8.67325,Portugal,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+brands_hatch,Brands Hatch,51.3569,0.263056,UK,http://en.wikipedia.org/wiki/Brands_Hatch
+bremgarten,Circuit Bremgarten,46.9589,7.40194,Switzerland,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+buddh,Buddh International Circuit,28.3487,77.5331,India,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+charade,Charade Circuit,45.7472,3.03889,France,http://en.wikipedia.org/wiki/Charade_Circuit
+dallas,Fair Park,32.7774,-96.7587,USA,http://en.wikipedia.org/wiki/Fair_Park
+detroit,Detroit Street Circuit,42.3298,-83.0401,USA,http://en.wikipedia.org/wiki/Detroit_street_circuit
+dijon,Dijon-Prenois,47.3625,4.89913,France,http://en.wikipedia.org/wiki/Dijon-Prenois
+donington,Donington Park,52.8306,-1.37528,UK,http://en.wikipedia.org/wiki/Donington_Park
+essarts,Rouen-Les-Essarts,49.3306,1.00458,France,http://en.wikipedia.org/wiki/Rouen-Les-Essarts
+estoril,Autódromo do Estoril,38.7506,-9.39417,Portugal,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+fuji,Fuji Speedway,35.3717,138.927,Japan,http://en.wikipedia.org/wiki/Fuji_Speedway
+galvez,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,Argentina,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+george,Prince George Circuit,-33.0486,27.8736,South Africa,http://en.wikipedia.org/wiki/Prince_George_Circuit
+hockenheimring,Hockenheimring,49.3278,8.56583,Germany,http://en.wikipedia.org/wiki/Hockenheimring
+hungaroring,Hungaroring,47.5789,19.2486,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+indianapolis,Indianapolis Motor Speedway,39.795,-86.2347,USA,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+interlagos,Autódromo José Carlos Pace,-23.7036,-46.6997,Brazil,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+istanbul,Istanbul Park,40.9517,29.405,Turkey,http://en.wikipedia.org/wiki/Istanbul_Park
+adelaide,Adelaide Street Circuit,-34.9272,138.617,Australia,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+ain-diab,Ain Diab,33.5786,-7.6875,Morocco,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+aintree,Aintree,53.4769,-2.94056,UK,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+americas,Circuit of the Americas,30.1328,-97.6411,USA,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+anderstorp,Scandinavian Raceway,57.2653,13.6042,Sweden,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+avus,AVUS,52.4806,13.2514,Germany,http://en.wikipedia.org/wiki/AVUS
+bahrain,Bahrain International Circuit,26.0325,50.5106,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+baku,Baku City Circuit,40.3725,49.8533,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+boavista,Circuito da Boavista,41.1705,-8.67325,Portugal,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+brands_hatch,Brands Hatch,51.3569,0.263056,UK,http://en.wikipedia.org/wiki/Brands_Hatch
+bremgarten,Circuit Bremgarten,46.9589,7.40194,Switzerland,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+buddh,Buddh International Circuit,28.3487,77.5331,India,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+charade,Charade Circuit,45.7472,3.03889,France,http://en.wikipedia.org/wiki/Charade_Circuit
+dallas,Fair Park,32.7774,-96.7587,USA,http://en.wikipedia.org/wiki/Fair_Park
+detroit,Detroit Street Circuit,42.3298,-83.0401,USA,http://en.wikipedia.org/wiki/Detroit_street_circuit
+dijon,Dijon-Prenois,47.3625,4.89913,France,http://en.wikipedia.org/wiki/Dijon-Prenois
+donington,Donington Park,52.8306,-1.37528,UK,http://en.wikipedia.org/wiki/Donington_Park
+essarts,Rouen-Les-Essarts,49.3306,1.00458,France,http://en.wikipedia.org/wiki/Rouen-Les-Essarts
+estoril,Autódromo do Estoril,38.7506,-9.39417,Portugal,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+fuji,Fuji Speedway,35.3717,138.927,Japan,http://en.wikipedia.org/wiki/Fuji_Speedway
+galvez,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,Argentina,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+george,Prince George Circuit,-33.0486,27.8736,South Africa,http://en.wikipedia.org/wiki/Prince_George_Circuit
+hockenheimring,Hockenheimring,49.3278,8.56583,Germany,http://en.wikipedia.org/wiki/Hockenheimring
+hungaroring,Hungaroring,47.5789,19.2486,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+indianapolis,Indianapolis Motor Speedway,39.795,-86.2347,USA,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+interlagos,Autódromo José Carlos Pace,-23.7036,-46.6997,Brazil,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+istanbul,Istanbul Park,40.9517,29.405,Turkey,http://en.wikipedia.org/wiki/Istanbul_Park
