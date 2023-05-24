@@ -1,0 +1,391 @@
+season,raceId,driverId,constructorId,number,grid,position,positionText,points,laps,statusId,time,milliseconds,fastestLap,fastestLapRank,fastestLapTime,fastestLapSpeed
+2010,Bahrain Grand Prix,alonso,ferrari,8,3,1,1,25,49,Finished,1:39:20.396,5960396,45,1,1:58.287,191.706
+2010,Bahrain Grand Prix,massa,ferrari,7,2,2,2,18,49,Finished,+16.099,5976495,38,5,1:59.732,189.392
+2010,Bahrain Grand Prix,hamilton,mclaren,2,4,3,3,15,49,Finished,+23.182,5983578,42,4,1:59.560,189.665
+2010,Bahrain Grand Prix,vettel,red_bull,5,1,4,4,12,49,Finished,+38.799,5999195,32,12,2:00.218,188.627
+2010,Bahrain Grand Prix,rosberg,mercedes,4,5,5,5,10,49,Finished,+40.213,6000609,45,13,2:00.236,188.599
+2010,Bahrain Grand Prix,michael_schumacher,mercedes,3,7,6,6,8,49,Finished,+44.163,6004559,45,11,2:00.204,188.649
+2010,Bahrain Grand Prix,button,mclaren,1,8,7,7,6,49,Finished,+45.280,6005676,45,9,1:59.970,189.017
+2010,Bahrain Grand Prix,webber,red_bull,6,6,8,8,4,49,Finished,+46.360,6006756,45,3,1:59.487,189.781
+2010,Bahrain Grand Prix,liuzzi,force_india,15,12,9,9,2,49,Finished,+53.008,6013404,39,7,1:59.906,189.118
+2010,Bahrain Grand Prix,barrichello,williams,9,11,10,10,1,49,Finished,+1:02.489,6022885,47,6,1:59.833,189.233
+2010,Bahrain Grand Prix,kubica,renault,11,9,11,11,0,49,Finished,+1:09.093,6029489,33,14,2:00.474,188.226
+2010,Bahrain Grand Prix,sutil,force_india,14,10,12,12,0,49,Finished,+1:22.958,6043354,49,2,1:59.393,189.930
+2010,Bahrain Grand Prix,alguersuari,toro_rosso,17,18,13,13,0,49,Finished,+1:32.656,6053052,28,8,1:59.964,189.026
+2010,Bahrain Grand Prix,hulkenberg,williams,10,13,14,14,0,48,+1 Lap,,,34,15,2:01.401,186.789
+2010,Bahrain Grand Prix,kovalainen,lotus_racing,19,21,15,15,0,47,+2 Laps,,,47,17,2:02.701,184.810
+2010,Bahrain Grand Prix,buemi,toro_rosso,16,15,16,16,0,46,Electrical,,,41,10,2:00.080,188.844
+2010,Bahrain Grand Prix,trulli,lotus_racing,18,20,17,17,0,46,Hydraulics,,,34,18,2:02.930,184.465
+2010,Bahrain Grand Prix,rosa,sauber,22,14,18,R,0,28,Hydraulics,,,27,16,2:01.650,186.406
+2010,Bahrain Grand Prix,bruno_senna,hrt,21,23,19,R,0,17,Overheating,,,14,22,2:09.127,175.613
+2010,Bahrain Grand Prix,glock,virgin,24,19,20,R,0,16,Gearbox,,,11,21,2:07.062,178.467
+2010,Bahrain Grand Prix,petrov,renault,12,17,21,R,0,13,Suspension,,,7,19,2:04.307,182.422
+2010,Bahrain Grand Prix,kobayashi,sauber,23,16,22,R,0,11,Hydraulics,,,4,20,2:05.044,181.347
+2010,Bahrain Grand Prix,grassi,virgin,25,22,23,R,0,2,Hydraulics,,,2,23,2:09.361,175.295
+2010,Bahrain Grand Prix,chandhok,hrt,20,24,24,R,0,1,Accident,,,,,,
+2010,Australian Grand Prix,button,mclaren,1,4,1,1,25,58,Finished,1:33:36.531,5616531,52,6,1:29.291,213.804
+2010,Australian Grand Prix,kubica,renault,11,9,2,2,18,58,Finished,+12.034,5628565,52,8,1:29.570,213.138
+2010,Australian Grand Prix,massa,ferrari,7,5,3,3,15,58,Finished,+14.488,5631019,52,7,1:29.537,213.216
+2010,Australian Grand Prix,alonso,ferrari,8,3,4,4,12,58,Finished,+16.304,5632835,47,10,1:29.707,212.812
+2010,Australian Grand Prix,rosberg,mercedes,4,6,5,5,10,58,Finished,+16.683,5633214,53,2,1:28.489,215.742
+2010,Australian Grand Prix,hamilton,mclaren,2,11,6,6,8,58,Finished,+29.898,5646429,47,3,1:28.506,215.700
+2011,Australian Grand Prix,vettel,red_bull,1,1,1,1,25,58,Finished,1:29:30.259,5370259,44,4,1:29.844,212.488
+2011,Australian Grand Prix,hamilton,mclaren,3,2,2,2,18,58,Finished,+22.297,5392556,41,8,1:30.314,211.382
+2011,Australian Grand Prix,petrov,renault,10,6,3,3,15,58,Finished,+30.560,5400819,55,7,1:30.064,211.969
+2011,Australian Grand Prix,alonso,ferrari,5,5,4,4,12,58,Finished,+31.772,5402031,49,2,1:29.487,213.336
+2011,Australian Grand Prix,webber,red_bull,2,3,5,5,10,58,Finished,+38.171,5408430,50,3,1:29.600,213.066
+2011,Australian Grand Prix,button,mclaren,4,4,6,6,8,58,Finished,+54.304,5424563,49,5,1:29.883,212.396
+2011,Australian Grand Prix,massa,ferrari,6,8,7,7,6,58,Finished,+1:25.186,5455445,55,1,1:28.947,214.631
+2011,Australian Grand Prix,buemi,toro_rosso,18,10,8,8,4,57,+1 Lap,,,44,11,1:30.836,210.167
+2011,Australian Grand Prix,sutil,force_india,14,16,9,9,2,57,+1 Lap,,,55,13,1:31.526,208.583
+2011,Australian Grand Prix,resta,force_india,15,14,10,10,1,57,+1 Lap,,,40,14,1:31.941,207.641
+2011,Australian Grand Prix,alguersuari,toro_rosso,19,12,11,11,0,57,+1 Lap,,,41,10,1:30.467,211.025
+2011,Australian Grand Prix,heidfeld,renault,9,18,12,12,0,57,+1 Lap,,,43,15,1:32.377,206.661
+2011,Australian Grand Prix,trulli,lotus_racing,21,20,13,13,0,56,+2 Laps,,,52,16,1:32.550,206.275
+2011,Australian Grand Prix,ambrosio,virgin,25,22,14,14,0,54,+4 Laps,,,44,19,1:34.523,201.969
+2011,Australian Grand Prix,glock,virgin,24,21,15,N,0,49,+9 Laps,,,48,22,1:35.789,199.300
+2011,Australian Grand Prix,barrichello,williams,11,17,16,R,0,48,Transmission,,,47,12,1:31.404,208.861
+2011,Australian Grand Prix,rosberg,mercedes,8,7,17,R,0,22,Collision,,,21,17,1:33.503,204.173
+2011,Australian Grand Prix,kovalainen,lotus_racing,20,19,18,R,0,19,Water leak,,,19,20,1:34.918,201.129
+2011,Australian Grand Prix,michael_schumacher,mercedes,7,11,19,R,0,19,Collision,,,13,21,1:35.319,200.283
+2011,Australian Grand Prix,maldonado,williams,12,15,20,R,0,9,Transmission,,,7,18,1:34.102,202.873
+2011,Australian Grand Prix,kobayashi,sauber,16,9,21,D,0,58,Disqualified,,,51,9,1:30.384,211.218
+2011,Australian Grand Prix,perez,sauber,17,13,22,D,0,58,Disqualified,,,39,6,1:29.962,212.209
+2011,Australian Grand Prix,liuzzi,hrt,23,0,23,F,0,0,Did not qualify,,,,,,
+2011,Australian Grand Prix,karthikeyan,hrt,22,0,24,F,0,0,Did not qualify,,,,,,
+2011,Malaysian Grand Prix,vettel,red_bull,1,1,1,1,25,56,Finished,1:37:39.832,5859832,33,6,1:41.539,196.523
+2011,Malaysian Grand Prix,button,mclaren,4,4,2,2,18,56,Finished,+3.261,5863093,50,4,1:41.264,197.057
+2011,Malaysian Grand Prix,heidfeld,renault,9,6,3,3,15,56,Finished,+25.075,5884907,47,7,1:41.547,196.508
+2011,Malaysian Grand Prix,webber,red_bull,2,3,4,4,12,56,Finished,+26.384,5886216,46,1,1:40.571,198.415
+2011,Malaysian Grand Prix,massa,ferrari,6,7,5,5,10,56,Finished,+36.958,5896790,41,9,1:41.999,195.637
+2011,Malaysian Grand Prix,alonso,ferrari,5,5,6,6,8,56,Finished,+37.248,5897080,49,2,1:40.717,198.127
+2012,Australian Grand Prix,button,mclaren,3,2,1,1,25,58,Finished,1:34:09.565,5649565,56,1,1:29.187,214.053
+2012,Australian Grand Prix,vettel,red_bull,1,6,2,2,18,58,Finished,+2.139,5651704,57,2,1:29.417,213.503
+2012,Australian Grand Prix,hamilton,mclaren,4,1,3,3,15,58,Finished,+4.075,5653640,57,4,1:29.538,213.214
+2012,Australian Grand Prix,webber,red_bull,2,5,4,4,12,58,Finished,+4.547,5654112,57,3,1:29.438,213.452
+2012,Australian Grand Prix,alonso,ferrari,5,12,5,5,10,58,Finished,+21.565,5671130,52,7,1:30.277,211.469
+2012,Australian Grand Prix,kobayashi,sauber,14,13,6,6,8,58,Finished,+36.766,5686331,55,10,1:30.620,210.668
+2012,Australian Grand Prix,raikkonen,lotus_f1,9,17,7,7,6,58,Finished,+38.014,5687579,50,11,1:30.759,210.346
+2012,Australian Grand Prix,perez,sauber,15,22,8,8,4,58,Finished,+39.458,5689023,46,12,1:30.843,210.151
+2012,Australian Grand Prix,ricciardo,toro_rosso,16,10,9,9,2,58,Finished,+39.556,5689121,53,8,1:30.592,210.733
+2012,Australian Grand Prix,resta,force_india,11,15,10,10,1,58,Finished,+39.737,5689302,57,9,1:30.605,210.703
+2012,Australian Grand Prix,vergne,toro_rosso,17,11,11,11,0,58,Finished,+39.848,5689413,52,6,1:30.274,211.476
+2012,Australian Grand Prix,rosberg,mercedes,8,7,12,12,0,58,Finished,+57.642,5707207,53,14,1:30.931,209.948
+2012,Australian Grand Prix,maldonado,williams,18,8,13,13,0,57,Accident,,,53,5,1:30.254,211.523
+2012,Australian Grand Prix,glock,marussia,24,20,14,14,0,57,+1 Lap,,,43,19,1:34.253,202.548
+2012,Australian Grand Prix,pic,marussia,25,21,15,15,0,53,+5 Laps,,,45,20,1:35.011,200.932
+2012,Australian Grand Prix,bruno_senna,williams,19,14,16,16,0,52,Collision,,,49,13,1:30.855,210.123
+2012,Australian Grand Prix,massa,ferrari,6,16,17,R,0,46,Collision,,,46,15,1:31.940,207.644
+2012,Australian Grand Prix,kovalainen,caterham,20,18,18,R,0,38,Suspension,,,26,17,1:33.693,203.759
+2012,Australian Grand Prix,petrov,caterham,21,19,19,R,0,34,Steering,,,27,16,1:33.214,204.806
+2012,Australian Grand Prix,michael_schumacher,mercedes,7,4,20,R,0,10,Gearbox,,,4,18,1:34.021,203.048
+2012,Australian Grand Prix,grosjean,lotus_f1,10,3,21,R,0,1,Collision,,,,,,
+2012,Australian Grand Prix,hulkenberg,force_india,12,9,22,R,0,0,Collision,,,,,,
+2012,Australian Grand Prix,rosa,hrt,22,0,23,F,0,0,Did not qualify,,,,,,
+2012,Australian Grand Prix,karthikeyan,hrt,23,0,24,F,0,0,Did not qualify,,,,,,
+2012,Malaysian Grand Prix,alonso,ferrari,5,8,1,1,25,56,Finished,2:44:51.812,9891812,53,7,1:41.680,196.250
+2012,Malaysian Grand Prix,perez,sauber,15,9,2,2,18,56,Finished,+2.263,9894075,54,3,1:41.021,197.531
+2012,Malaysian Grand Prix,hamilton,mclaren,4,1,3,3,15,56,Finished,+14.591,9906403,50,6,1:41.539,196.523
+2012,Malaysian Grand Prix,webber,red_bull,2,4,4,4,12,56,Finished,+17.688,9909500,52,2,1:41.017,197.539
+2012,Malaysian Grand Prix,raikkonen,lotus_f1,9,10,5,5,10,56,Finished,+29.456,9921268,53,1,1:40.722,198.117
+2012,Malaysian Grand Prix,bruno_senna,williams,19,13,6,6,8,56,Finished,+37.667,9929479,55,5,1:41.404,196.785
+2013,Australian Grand Prix,raikkonen,lotus_f1,7,7,1,1,25,58,Finished,1:30:03.225,5403225,56,1,1:29.274,213.845
+2013,Australian Grand Prix,alonso,ferrari,3,5,2,2,18,58,Finished,+12.451,5415676,53,3,1:29.560,213.162
+2013,Australian Grand Prix,vettel,red_bull,1,1,3,3,15,58,Finished,+22.346,5425571,42,10,1:30.409,211.160
+2013,Australian Grand Prix,massa,ferrari,4,4,4,4,12,58,Finished,+33.577,5436802,38,8,1:30.239,211.558
+2013,Australian Grand Prix,hamilton,mercedes,10,3,5,5,10,58,Finished,+45.561,5448786,45,5,1:29.759,212.689
+2013,Australian Grand Prix,webber,red_bull,2,2,6,6,8,58,Finished,+46.800,5450025,45,4,1:29.732,212.753
+2013,Australian Grand Prix,sutil,force_india,15,12,7,7,6,58,Finished,+1:05.068,5468293,49,13,1:30.710,210.459
+2013,Australian Grand Prix,resta,force_india,14,9,8,8,4,58,Finished,+1:08.449,5471674,56,15,1:30.894,210.033
+2013,Australian Grand Prix,button,mclaren,5,10,9,9,2,58,Finished,+1:21.630,5484855,41,7,1:30.198,211.654
+2013,Australian Grand Prix,grosjean,lotus_f1,8,8,10,10,1,58,Finished,+1:22.759,5485984,41,9,1:30.395,211.193
+2013,Australian Grand Prix,perez,mclaren,6,15,11,11,0,58,Finished,+1:23.367,5486592,46,6,1:29.926,212.294
+2013,Australian Grand Prix,vergne,toro_rosso,18,13,12,12,0,58,Finished,+1:23.857,5487082,50,2,1:29.498,213.309
+2013,Australian Grand Prix,gutierrez,sauber,12,18,13,13,0,57,+1 Lap,,,32,16,1:31.415,208.836
+2013,Australian Grand Prix,bottas,williams,17,16,14,14,0,57,+1 Lap,,,42,12,1:30.652,210.594
+2013,Australian Grand Prix,jules_bianchi,marussia,22,19,15,15,0,57,+1 Lap,,,52,11,1:30.454,211.055
+2013,Australian Grand Prix,pic,caterham,20,22,16,16,0,56,+2 Laps,,,55,19,1:32.261,206.921
+2013,Australian Grand Prix,chilton,marussia,23,20,17,17,0,56,+2 Laps,,,49,17,1:32.210,207.036
+2013,Australian Grand Prix,garde,caterham,21,21,18,18,0,56,+2 Laps,,,39,20,1:32.636,206.084
+2013,Australian Grand Prix,ricciardo,toro_rosso,19,14,19,R,0,39,Hydraulics,,,33,14,1:30.881,210.063
+2013,Australian Grand Prix,rosberg,mercedes,9,6,20,R,0,26,Electrical,,,18,18,1:32.259,206.926
+2013,Australian Grand Prix,maldonado,williams,16,17,21,R,0,24,Spun off,,,12,21,1:32.915,205.465
+2013,Australian Grand Prix,hulkenberg,sauber,11,11,22,W,0,0,Fuel system,,,,,,
+2013,Malaysian Grand Prix,vettel,red_bull,1,1,1,1,25,56,Finished,1:38:56.681,5936681,45,3,1:40.446,198.661
+2013,Malaysian Grand Prix,webber,red_bull,2,5,2,2,18,56,Finished,+4.298,5940979,45,6,1:40.685,198.190
+2013,Malaysian Grand Prix,hamilton,mercedes,10,4,3,3,15,56,Finished,+12.181,5948862,32,10,1:41.001,197.570
+2013,Malaysian Grand Prix,rosberg,mercedes,9,6,4,4,12,56,Finished,+12.640,5949321,44,8,1:40.755,198.052
+2013,Malaysian Grand Prix,massa,ferrari,4,2,5,5,10,56,Finished,+25.648,5962329,50,2,1:39.805,199.937
+2013,Malaysian Grand Prix,grosjean,lotus_f1,8,11,6,6,8,56,Finished,+35.564,5972245,37,11,1:41.226,197.131
+2013,Malaysian Grand Prix,raikkonen,lotus_f1,7,10,7,7,6,56,Finished,+48.479,5985160,37,13,1:41.769,196.079
+2013,Malaysian Grand Prix,hulkenberg,sauber,11,12,8,8,4,56,Finished,+53.044,5989725,46,7,1:40.727,198.107
+2014,Australian Grand Prix,rosberg,mercedes,6,3,1,1,25,57,Finished,1:32:58.710,5578710,19,1,1:32.478,206.436
+2014,Australian Grand Prix,kevin_magnussen,mclaren,20,4,2,2,18,57,Finished,+26.777,5605487,49,6,1:33.066,205.131
+2014,Australian Grand Prix,button,mclaren,22,10,3,3,15,57,Finished,+30.027,5608737,39,5,1:32.917,205.460
+2014,Australian Grand Prix,alonso,ferrari,14,5,4,4,12,57,Finished,+35.284,5613994,57,7,1:33.186,204.867
+2014,Australian Grand Prix,bottas,williams,77,15,5,5,10,57,Finished,+47.639,5626349,56,3,1:32.616,206.128
+2014,Australian Grand Prix,hulkenberg,force_india,27,7,6,6,8,57,Finished,+50.718,5629428,56,2,1:32.568,206.235
+2014,Australian Grand Prix,raikkonen,ferrari,7,11,7,7,6,57,Finished,+57.675,5636385,56,8,1:33.210,204.814
+2014,Australian Grand Prix,vergne,toro_rosso,25,6,8,8,4,57,Finished,+1:00.441,5639151,56,10,1:33.691,203.763
+2014,Australian Grand Prix,kvyat,toro_rosso,26,8,9,9,2,57,Finished,+1:03.585,5642295,35,11,1:33.864,203.387
+2014,Australian Grand Prix,perez,force_india,11,16,10,10,1,57,Finished,+1:25.916,5664626,38,4,1:32.634,206.088
+2014,Australian Grand Prix,sutil,sauber,99,13,11,11,0,56,+1 Lap,,,34,9,1:33.366,204.472
+2014,Australian Grand Prix,gutierrez,sauber,21,20,12,12,0,56,+1 Lap,,,41,13,1:34.564,201.882
+2014,Australian Grand Prix,chilton,marussia,4,17,13,13,0,55,+2 Laps,,,33,12,1:34.202,202.658
+2014,Australian Grand Prix,jules_bianchi,marussia,17,18,14,N,0,49,+8 Laps,,,55,16,1:35.635,199.621
+2014,Australian Grand Prix,grosjean,lotus_f1,8,22,15,R,0,43,ERS,,,41,15,1:35.281,200.363
+2014,Australian Grand Prix,maldonado,lotus_f1,13,21,16,R,0,29,ERS,,,30,14,1:34.766,201.451
+2014,Australian Grand Prix,ericsson,caterham,9,19,17,R,0,27,Oil pressure,,,17,18,1:37.332,196.141
+2014,Australian Grand Prix,vettel,red_bull,1,12,18,R,0,3,Engine,,,26,17,1:37.064,196.682
+2014,Australian Grand Prix,hamilton,mercedes,44,1,19,R,0,2,Engine,,,2,20,1:49.947,173.636
+2014,Australian Grand Prix,massa,williams,19,9,20,R,0,0,Collision,,,2,19,1:40.287,190.361
+2014,Australian Grand Prix,kobayashi,caterham,10,14,21,R,0,0,Collision,,,,,,
+2014,Australian Grand Prix,ricciardo,red_bull,3,2,22,D,0,57,Disqualified,+24.525,5603235,,,,
+2014,Malaysian Grand Prix,hamilton,mercedes,44,1,1,1,25,56,Finished,1:40:25.974,6025974,53,1,1:43.066,193.611
+2014,Malaysian Grand Prix,rosberg,mercedes,6,3,2,2,18,56,Finished,+17.313,6043287,55,2,1:43.960,191.946
+2014,Malaysian Grand Prix,vettel,red_bull,1,2,3,3,15,56,Finished,+24.534,6050508,51,4,1:44.289,191.341
+2014,Malaysian Grand Prix,alonso,ferrari,14,4,4,4,12,56,Finished,+35.992,6061966,47,3,1:44.165,191.569
+2014,Malaysian Grand Prix,hulkenberg,force_india,27,7,5,5,10,56,Finished,+47.199,6073173,38,10,1:45.982,188.284
+2014,Malaysian Grand Prix,button,mclaren,22,10,6,6,8,56,Finished,+1:23.691,6109665,47,11,1:46.039,188.183
+2014,Malaysian Grand Prix,massa,williams,19,13,7,7,6,56,Finished,+1:25.076,6111050,44,6,1:44.897,190.232
+2014,Malaysian Grand Prix,bottas,williams,77,18,8,8,4,56,Finished,+1:25.537,6111511,31,9,1:45.475,189.189
+2015,Australian Grand Prix,hamilton,mercedes,44,1,1,1,25,58,Finished,1:31:54.067,5514067,50,1,1:30.945,209.915
+2015,Australian Grand Prix,rosberg,mercedes,6,2,2,2,18,58,Finished,+1.360,5515427,47,2,1:31.092,209.577
+2015,Australian Grand Prix,vettel,ferrari,5,4,3,3,15,58,Finished,+34.523,5548590,52,4,1:31.457,208.740
+2015,Australian Grand Prix,massa,williams,19,3,4,4,12,58,Finished,+38.196,5552263,50,6,1:31.719,208.144
+2015,Australian Grand Prix,nasr,sauber,12,10,5,5,10,58,Finished,+1:35.149,5609216,46,9,1:32.612,206.137
+2015,Australian Grand Prix,ricciardo,red_bull,3,6,6,6,8,57,+1 Lap,,,46,10,1:32.797,205.726
+2015,Australian Grand Prix,hulkenberg,force_india,27,13,7,7,6,57,+1 Lap,,,48,8,1:31.970,207.576
+2015,Australian Grand Prix,ericsson,sauber,9,15,8,8,4,57,+1 Lap,,,51,5,1:31.560,208.505
+2015,Australian Grand Prix,sainz,toro_rosso,55,7,9,9,2,57,+1 Lap,,,49,11,1:32.872,205.560
+2015,Australian Grand Prix,perez,force_india,11,14,10,10,1,57,+1 Lap,,,46,7,1:31.959,207.601
+2015,Australian Grand Prix,button,mclaren,22,16,11,11,0,56,+2 Laps,,,56,12,1:33.338,204.534
+2015,Australian Grand Prix,raikkonen,ferrari,7,5,12,R,0,40,Wheel,,,36,3,1:31.426,208.811
+2015,Australian Grand Prix,max_verstappen,toro_rosso,33,11,13,R,0,32,Engine,,,30,13,1:34.295,202.458
+2015,Australian Grand Prix,grosjean,lotus_f1,8,8,14,R,0,0,Power loss,,,,,,
+2015,Australian Grand Prix,maldonado,lotus_f1,13,9,15,R,0,0,Accident,,,,,,
+2015,Australian Grand Prix,kvyat,red_bull,26,12,16,W,0,0,Withdrew,,,,,,
+2015,Australian Grand Prix,kevin_magnussen,mclaren,20,17,17,W,0,0,Withdrew,,,,,,
+2015,Australian Grand Prix,bottas,williams,77,0,18,W,0,0,Withdrew,,,,,,
+2015,Malaysian Grand Prix,vettel,ferrari,5,2,1,1,25,56,Finished,1:41:05.793,6065793,46,3,1:43.648,193.501
+2015,Malaysian Grand Prix,hamilton,mercedes,44,1,2,2,18,56,Finished,+8.569,6074362,45,2,1:43.125,193.501
+2015,Malaysian Grand Prix,rosberg,mercedes,6,3,3,3,15,56,Finished,+12.310,6078103,43,1,1:42.062,195.516
+2015,Malaysian Grand Prix,raikkonen,ferrari,7,11,4,4,12,56,Finished,+53.822,6119615,40,7,1:44.124,191.644
+2015,Malaysian Grand Prix,bottas,williams,77,8,5,5,10,56,Finished,+1:10.409,6136202,42,6,1:44.088,191.710
+2015,Malaysian Grand Prix,massa,williams,19,7,6,6,8,56,Finished,+1:13.586,6139379,40,5,1:43.990,191.891
+2015,Malaysian Grand Prix,max_verstappen,toro_rosso,33,6,7,7,6,56,Finished,+1:37.762,6163555,42,9,1:44.579,190.810
+2015,Malaysian Grand Prix,sainz,toro_rosso,55,15,8,8,4,55,+1 Lap,,,37,15,1:45.507,189.132
+2015,Malaysian Grand Prix,kvyat,red_bull,26,5,9,9,2,55,+1 Lap,,,41,8,1:44.514,190.929
+2015,Malaysian Grand Prix,ricciardo,red_bull,3,4,10,10,1,55,+1 Lap,,,42,13,1:45.312,189.482
+2015,Malaysian Grand Prix,grosjean,lotus_f1,8,10,11,11,0,55,+1 Lap,,,36,10,1:44.812,190.386
+2015,Malaysian Grand Prix,nasr,sauber,12,16,12,12,0,55,+1 Lap,,,45,4,1:43.902,192.054
+2016,Australian Grand Prix,rosberg,mercedes,6,2,1,1,25,57,Finished,1:48:15.565,6495565,21,3,1:30.557,210.815
+2016,Australian Grand Prix,hamilton,mercedes,44,1,2,2,18,57,Finished,+8.060,6503625,48,4,1:30.646,210.608
+2016,Australian Grand Prix,vettel,ferrari,5,3,3,3,15,57,Finished,+9.643,6505208,23,2,1:29.951,212.235
+2016,Australian Grand Prix,ricciardo,red_bull,3,8,4,4,12,57,Finished,+24.330,6519895,49,1,1:28.997,214.510
+2016,Australian Grand Prix,massa,williams,19,6,5,5,10,57,Finished,+58.979,6554544,39,9,1:32.288,206.861
+2016,Australian Grand Prix,grosjean,haas,8,19,6,6,8,57,Finished,+1:12.081,6567646,48,17,1:32.862,205.582
+2016,Australian Grand Prix,hulkenberg,force_india,27,10,7,7,6,57,Finished,+1:14.199,6569764,49,16,1:32.833,205.646
+2016,Australian Grand Prix,bottas,williams,77,16,8,8,4,57,Finished,+1:15.153,6570718,51,14,1:32.725,205.886
+2016,Australian Grand Prix,sainz,toro_rosso,55,7,9,9,2,57,Finished,+1:15.680,6571245,23,7,1:31.671,208.253
+2016,Australian Grand Prix,max_verstappen,toro_rosso,33,5,10,10,1,57,Finished,+1:16.833,6572398,44,6,1:31.516,208.606
+2016,Australian Grand Prix,jolyon_palmer,renault,30,13,11,11,0,57,Finished,+1:23.399,6578964,14,18,1:32.955,205.376
+2016,Australian Grand Prix,kevin_magnussen,renault,20,14,12,12,0,57,Finished,+1:25.606,6581171,45,10,1:32.452,206.494
+2016,Australian Grand Prix,perez,force_india,11,9,13,13,0,57,Finished,+1:31.699,6587264,39,15,1:32.780,205.764
+2016,Australian Grand Prix,button,mclaren,22,12,14,14,0,56,+1 Lap,,,33,8,1:31.684,208.223
+2016,Australian Grand Prix,nasr,sauber,12,17,15,15,0,56,+1 Lap,,,48,13,1:32.711,205.917
+2016,Australian Grand Prix,wehrlein,manor,94,21,16,16,0,56,+1 Lap,,,34,12,1:32.673,206.001
+2016,Australian Grand Prix,ericsson,sauber,9,15,17,R,0,38,Engine,,,15,21,1:33.892,203.327
+2016,Australian Grand Prix,raikkonen,ferrari,7,4,18,R,0,21,Engine,,,21,5,1:30.701,210.480
+2016,Australian Grand Prix,haryanto,manor,88,22,19,R,0,17,Mechanical,,,15,20,1:33.847,203.424
+2016,Australian Grand Prix,gutierrez,haas,21,20,20,R,0,16,Collision,,,4,19,1:32.998,205.281
+2016,Australian Grand Prix,alonso,mclaren,14,11,21,R,0,16,Collision,,,14,11,1:32.553,206.268
+2016,Australian Grand Prix,kvyat,red_bull,26,18,22,W,0,0,Retired,,,,,,
+2016,Bahrain Grand Prix,rosberg,mercedes,6,2,1,1,25,57,Finished,1:33:34.696,5614696,41,1,1:34.482,206.210
+2016,Bahrain Grand Prix,raikkonen,ferrari,7,4,2,2,18,57,Finished,+10.282,5624978,39,3,1:35.158,204.745
+2016,Bahrain Grand Prix,hamilton,mercedes,44,1,3,3,15,57,Finished,+30.148,5644844,43,2,1:34.677,205.785
+2016,Bahrain Grand Prix,ricciardo,red_bull,3,5,4,4,12,57,Finished,+1:02.494,5677190,44,9,1:36.064,202.814
+2016,Bahrain Grand Prix,grosjean,haas,8,9,5,5,10,57,Finished,+1:18.299,5692995,42,11,1:36.095,202.749
+2016,Bahrain Grand Prix,max_verstappen,toro_rosso,33,10,6,6,8,57,Finished,+1:20.929,5695625,49,7,1:35.504,204.004
+2016,Bahrain Grand Prix,kvyat,red_bull,26,15,7,7,6,56,+1 Lap,,,36,8,1:35.678,203.633
+2016,Bahrain Grand Prix,massa,williams,19,7,8,8,4,56,+1 Lap,,,31,16,1:37.560,199.704
+2017,Australian Grand Prix,vettel,ferrari,5,2,1,1,25,57,Finished,1:24:11.672,5051672,53,3,1:26.638,220.351
+2017,Australian Grand Prix,hamilton,mercedes,44,1,2,2,18,57,Finished,+9.975,5061647,44,6,1:27.033,219.351
+2017,Australian Grand Prix,bottas,mercedes,77,3,3,3,15,57,Finished,+11.250,5062922,56,2,1:26.593,220.465
+2017,Australian Grand Prix,raikkonen,ferrari,7,4,4,4,12,57,Finished,+22.393,5074065,56,1,1:26.538,220.605
+2017,Australian Grand Prix,max_verstappen,red_bull,33,5,5,5,10,57,Finished,+28.827,5080499,43,5,1:26.964,219.525
+2017,Australian Grand Prix,massa,williams,19,7,6,6,8,57,Finished,+1:23.386,5135058,49,9,1:28.045,216.830
+2017,Australian Grand Prix,perez,force_india,11,10,7,7,6,56,+1 Lap,,,56,10,1:28.336,216.115
+2017,Australian Grand Prix,sainz,toro_rosso,55,8,8,8,4,56,+1 Lap,,,53,8,1:27.677,217.740
+2017,Australian Grand Prix,kvyat,toro_rosso,26,9,9,9,2,56,+1 Lap,,,51,4,1:26.711,220.165
+2017,Australian Grand Prix,ocon,force_india,31,13,10,10,1,56,+1 Lap,,,55,11,1:28.475,215.776
+2017,Australian Grand Prix,hulkenberg,renault,27,11,11,11,0,56,+1 Lap,,,55,12,1:28.486,215.749
+2017,Australian Grand Prix,giovinazzi,sauber,36,16,12,12,0,55,+2 Laps,,,51,13,1:29.052,214.378
+2017,Australian Grand Prix,vandoorne,mclaren,2,18,13,13,0,55,+2 Laps,,,53,15,1:29.440,213.448
+2017,Australian Grand Prix,alonso,mclaren,14,12,14,R,0,50,Vibrations,,,48,17,1:30.077,211.938
+2017,Australian Grand Prix,kevin_magnussen,haas,20,17,15,R,0,46,Suspension,,,46,7,1:27.568,218.011
+2017,Australian Grand Prix,stroll,williams,18,20,16,R,0,40,Brakes,,,38,14,1:29.389,213.569
+2017,Australian Grand Prix,ricciardo,red_bull,3,0,17,R,0,25,Power Unit,,,21,16,1:29.447,213.431
+2017,Australian Grand Prix,ericsson,sauber,9,14,18,R,0,21,Hydraulics,,,18,19,1:32.052,207.391
+2017,Australian Grand Prix,jolyon_palmer,renault,30,19,19,R,0,15,Brakes,,,6,20,1:32.195,207.069
+2017,Australian Grand Prix,grosjean,haas,8,6,20,R,0,13,Water leak,,,12,18,1:30.183,211.689
+2017,Chinese Grand Prix,hamilton,mercedes,44,1,1,1,25,56,Finished,1:37:36.158,5856158,44,1,1:35.378,205.745
+2017,Chinese Grand Prix,vettel,ferrari,5,2,2,2,18,56,Finished,+6.250,5862408,40,2,1:35.423,205.648
+2017,Chinese Grand Prix,max_verstappen,red_bull,33,16,3,3,15,56,Finished,+45.192,5901350,31,7,1:36.722,202.886
+2017,Chinese Grand Prix,ricciardo,red_bull,3,5,4,4,12,56,Finished,+46.035,5902193,36,8,1:36.791,202.741
+2017,Chinese Grand Prix,raikkonen,ferrari,7,4,5,5,10,56,Finished,+48.076,5904234,42,4,1:36.003,204.406
+2017,Chinese Grand Prix,bottas,mercedes,77,3,6,6,8,56,Finished,+48.808,5904966,41,3,1:35.849,204.734
+2017,Chinese Grand Prix,sainz,toro_rosso,55,11,7,7,6,56,Finished,+1:12.893,5929051,30,10,1:37.398,201.478
+2017,Chinese Grand Prix,kevin_magnussen,haas,20,12,8,8,4,55,+1 Lap,,,35,11,1:37.528,201.209
+2017,Chinese Grand Prix,perez,force_india,11,8,9,9,2,55,+1 Lap,,,55,6,1:36.531,203.288
+2017,Chinese Grand Prix,ocon,force_india,31,17,10,10,1,55,+1 Lap,,,55,9,1:37.036,202.230
+2018,Australian Grand Prix,vettel,ferrari,5,3,1,1,25,58,Finished,1:29:33.283,5373283,53,4,1:26.469,220.782
+2018,Australian Grand Prix,hamilton,mercedes,44,1,2,2,18,58,Finished,+5.036,5378319,50,3,1:26.444,220.845
+2018,Australian Grand Prix,raikkonen,ferrari,7,2,3,3,15,58,Finished,+6.309,5379592,57,2,1:26.373,221.027
+2018,Australian Grand Prix,ricciardo,red_bull,3,8,4,4,12,58,Finished,+7.069,5380352,54,1,1:25.945,222.128
+2018,Australian Grand Prix,alonso,mclaren,14,10,5,5,10,58,Finished,+27.886,5401169,57,7,1:26.978,219.489
+2018,Australian Grand Prix,max_verstappen,red_bull,33,4,6,6,8,58,Finished,+28.945,5402228,54,5,1:26.880,219.737
+2018,Australian Grand Prix,hulkenberg,renault,27,7,7,7,6,58,Finished,+32.671,5405954,57,9,1:27.081,219.230
+2018,Australian Grand Prix,bottas,mercedes,77,15,8,8,4,58,Finished,+34.339,5407622,54,8,1:27.019,219.386
+2018,Australian Grand Prix,vandoorne,mclaren,2,11,9,9,2,58,Finished,+34.921,5408204,57,6,1:26.958,219.540
+2018,Australian Grand Prix,sainz,renault,55,9,10,10,1,58,Finished,+45.722,5419005,51,12,1:27.944,217.079
+2018,Australian Grand Prix,perez,force_india,11,12,11,11,0,58,Finished,+46.817,5420100,51,11,1:27.633,217.849
+2018,Australian Grand Prix,ocon,force_india,31,14,12,12,0,58,Finished,+1:00.278,5433561,57,10,1:27.600,217.931
+2018,Australian Grand Prix,leclerc,sauber,16,18,13,13,0,58,Finished,+1:15.759,5449042,56,15,1:28.759,215.085
+2018,Australian Grand Prix,stroll,williams,18,13,14,14,0,58,Finished,+1:18.288,5451571,55,14,1:28.511,215.688
+2018,Australian Grand Prix,brendon_hartley,toro_rosso,28,16,15,15,0,57,+1 Lap,,,57,13,1:28.176,216.507
+2018,Australian Grand Prix,grosjean,haas,8,6,16,R,0,24,Wheel,,,23,16,1:28.805,214.974
+2018,Australian Grand Prix,kevin_magnussen,haas,20,5,17,R,0,22,Wheel,,,21,17,1:29.534,213.224
+2018,Australian Grand Prix,gasly,toro_rosso,10,20,18,R,0,13,Engine,,,13,18,1:30.649,210.601
+2018,Australian Grand Prix,ericsson,sauber,9,17,19,R,0,5,Steering,,,4,19,1:32.210,207.036
+2018,Australian Grand Prix,sirotkin,williams,35,19,20,R,0,4,Brakes,,,3,20,1:32.573,206.224
+2018,Bahrain Grand Prix,vettel,ferrari,5,1,1,1,25,57,Finished,1:32:01.940,5521940,21,7,1:34.453,206.274
+2018,Bahrain Grand Prix,bottas,mercedes,77,3,2,2,18,57,Finished,+0.699,5522639,22,1,1:33.740,207.842
+2018,Bahrain Grand Prix,hamilton,mercedes,44,9,3,3,15,57,Finished,+6.512,5528452,51,2,1:33.953,207.371
+2018,Bahrain Grand Prix,gasly,toro_rosso,10,5,4,4,12,57,Finished,+1:02.234,5584174,46,11,1:34.863,205.382
+2018,Bahrain Grand Prix,kevin_magnussen,haas,20,6,5,5,10,57,Finished,+1:15.046,5596986,29,5,1:34.327,206.549
+2018,Bahrain Grand Prix,hulkenberg,renault,27,7,6,6,8,57,Finished,+1:39.024,5620964,50,9,1:34.667,205.807
+2018,Bahrain Grand Prix,alonso,mclaren,14,13,7,7,6,56,+1 Lap,,,47,4,1:34.168,206.898
+2018,Bahrain Grand Prix,vandoorne,mclaren,2,14,8,8,4,56,+1 Lap,,,30,16,1:35.131,204.803
+2018,Bahrain Grand Prix,ericsson,sauber,9,17,9,9,2,56,+1 Lap,,,26,15,1:35.093,204.885
+2018,Bahrain Grand Prix,ocon,force_india,31,8,10,10,1,56,+1 Lap,,,38,12,1:35.043,204.993
+2019,Australian Grand Prix,bottas,mercedes,77,2,1,1,26,58,Finished,1:25:27.325,5127325,57,1,1:25.580,223.075
+2019,Australian Grand Prix,hamilton,mercedes,44,1,2,2,18,58,Finished,+20.886,5148211,57,2,1:26.057,221.839
+2019,Australian Grand Prix,max_verstappen,red_bull,33,4,3,3,15,58,Finished,+22.520,5149845,57,3,1:26.256,221.327
+2019,Australian Grand Prix,vettel,ferrari,5,3,4,4,12,58,Finished,+57.109,5184434,16,8,1:27.954,217.054
+2019,Australian Grand Prix,leclerc,ferrari,16,5,5,5,10,58,Finished,+58.203,5185528,58,4,1:26.926,219.621
+2019,Australian Grand Prix,kevin_magnussen,haas,20,7,6,6,8,58,Finished,+1:27.156,5214481,56,9,1:28.182,216.493
+2019,Australian Grand Prix,hulkenberg,renault,27,11,7,7,6,57,+1 Lap,,,52,12,1:28.444,215.851
+2019,Australian Grand Prix,raikkonen,alfa,7,9,8,8,4,57,+1 Lap,,,52,11,1:28.270,216.277
+2019,Australian Grand Prix,stroll,racing_point,18,16,9,9,2,57,+1 Lap,,,29,7,1:27.568,218.011
+2019,Australian Grand Prix,kvyat,toro_rosso,26,15,10,10,1,57,+1 Lap,,,39,6,1:27.448,218.310
+2019,Australian Grand Prix,gasly,red_bull,10,17,11,11,0,57,+1 Lap,,,39,5,1:27.229,218.858
+2019,Australian Grand Prix,norris,mclaren,4,8,12,12,0,57,+1 Lap,,,17,16,1:28.555,215.581
+2019,Australian Grand Prix,perez,racing_point,11,10,13,13,0,57,+1 Lap,,,41,15,1:28.485,215.751
+2019,Australian Grand Prix,albon,toro_rosso,23,13,14,14,0,57,+1 Lap,,,43,10,1:28.188,216.478
+2019,Australian Grand Prix,giovinazzi,alfa,99,14,15,15,0,57,+1 Lap,,,29,14,1:28.479,215.766
+2019,Australian Grand Prix,russell,williams,63,19,16,16,0,56,+2 Laps,,,55,17,1:28.713,215.197
+2019,Australian Grand Prix,kubica,williams,88,20,17,17,0,55,+3 Laps,,,30,18,1:29.284,213.821
+2019,Australian Grand Prix,grosjean,haas,8,6,18,R,0,29,Wheel,,,17,13,1:28.462,215.807
+2019,Australian Grand Prix,ricciardo,renault,3,12,19,R,0,28,Damage,,,18,19,1:29.848,212.478
+2019,Australian Grand Prix,sainz,mclaren,55,18,20,R,0,9,Engine,,,9,20,1:30.899,210.022
+2019,Bahrain Grand Prix,hamilton,mercedes,44,3,1,1,25,57,Finished,1:34:21.295,5661295,36,2,1:33.528,208.314
+2019,Bahrain Grand Prix,bottas,mercedes,77,4,2,2,18,57,Finished,+2.980,5664275,42,3,1:34.209,206.808
+2019,Bahrain Grand Prix,leclerc,ferrari,16,1,3,3,16,57,Finished,+6.131,5667426,38,1,1:33.411,208.575
+2019,Bahrain Grand Prix,max_verstappen,red_bull,33,5,4,4,12,57,Finished,+6.408,5667703,47,9,1:35.311,204.417
+2019,Bahrain Grand Prix,vettel,ferrari,5,2,5,5,10,57,Finished,+36.068,5697363,43,4,1:34.895,205.313
+2019,Bahrain Grand Prix,norris,mclaren,4,9,6,6,8,57,Finished,+45.754,5707049,14,12,1:35.777,203.422
+2019,Bahrain Grand Prix,raikkonen,alfa,7,8,7,7,6,57,Finished,+47.470,5708765,45,11,1:35.589,203.822
+2019,Bahrain Grand Prix,gasly,red_bull,10,13,8,8,4,57,Finished,+58.094,5719389,42,8,1:35.291,204.460
+2019,Bahrain Grand Prix,albon,toro_rosso,23,12,9,9,2,57,Finished,+1:02.697,5723992,39,16,1:36.752,201.372
+2019,Bahrain Grand Prix,perez,racing_point,11,14,10,10,1,57,Finished,+1:03.696,5724991,51,14,1:36.330,202.254
+2020,Austrian Grand Prix,bottas,mercedes,77,1,1,1,25,71,Finished,1:30:55.739,5455739,68,2,1:07.657,229.758
+2020,Austrian Grand Prix,leclerc,ferrari,16,7,2,2,18,71,Finished,+2.700,5458439,64,4,1:07.901,228.933
+2020,Austrian Grand Prix,norris,mclaren,4,3,3,3,16,71,Finished,+5.491,5461230,71,1,1:07.475,230.378
+2020,Austrian Grand Prix,hamilton,mercedes,44,5,4,4,12,71,Finished,+5.689,5461428,67,3,1:07.712,229.572
+2020,Austrian Grand Prix,sainz,mclaren,55,8,5,5,10,71,Finished,+8.903,5464642,63,5,1:07.974,228.687
+2020,Austrian Grand Prix,perez,racing_point,11,6,6,6,8,71,Finished,+15.092,5470831,63,6,1:08.305,227.579
+2020,Austrian Grand Prix,gasly,alphatauri,10,12,7,7,6,71,Finished,+16.682,5472421,64,11,1:09.025,225.205
+2020,Austrian Grand Prix,ocon,renault,31,14,8,8,4,71,Finished,+17.456,5473195,64,10,1:08.932,225.509
+2020,Austrian Grand Prix,giovinazzi,alfa,99,18,9,9,2,71,Finished,+21.146,5476885,70,9,1:08.796,225.954
+2020,Austrian Grand Prix,vettel,ferrari,5,11,10,10,1,71,Finished,+24.545,5480284,71,8,1:08.623,226.524
+2020,Austrian Grand Prix,latifi,williams,6,20,11,11,0,71,Finished,+31.650,5487389,63,16,1:09.662,223.146
+2020,Austrian Grand Prix,kvyat,alphatauri,26,13,12,12,0,69,Suspension,,,50,13,1:09.135,224.847
+2020,Austrian Grand Prix,albon,red_bull,23,4,13,13,0,67,Electronics,,,50,7,1:08.432,227.156
+2020,Austrian Grand Prix,raikkonen,alfa,7,19,14,R,0,53,Wheel,,,48,12,1:09.031,225.185
+2020,Austrian Grand Prix,russell,williams,63,17,15,R,0,49,Fuel pressure,,,49,14,1:09.317,224.256
+2020,Austrian Grand Prix,grosjean,haas,8,15,16,R,0,49,Brakes,,,46,17,1:10.228,221.347
+2020,Austrian Grand Prix,kevin_magnussen,haas,20,16,17,R,0,24,Brakes,,,23,20,1:10.720,219.807
+2020,Austrian Grand Prix,stroll,racing_point,18,9,18,R,0,20,Engine,,,4,18,1:10.326,221.039
+2020,Austrian Grand Prix,ricciardo,renault,3,10,19,R,0,17,Overheating,,,8,19,1:10.610,220.150
+2020,Austrian Grand Prix,max_verstappen,red_bull,33,2,20,R,0,11,Electronics,,,5,15,1:09.351,224.146
+2020,Styrian Grand Prix,hamilton,mercedes,44,1,1,1,25,71,Finished,1:22:50.683,4970683,68,3,1:06.719,232.989
+2020,Styrian Grand Prix,bottas,mercedes,77,4,2,2,18,71,Finished,+13.719,4984402,62,7,1:07.534,230.177
+2020,Styrian Grand Prix,max_verstappen,red_bull,33,2,3,3,15,71,Finished,+33.698,5004381,70,2,1:06.145,235.010
+2020,Styrian Grand Prix,albon,red_bull,23,6,4,4,12,71,Finished,+44.400,5015083,67,6,1:07.299,230.981
+2020,Styrian Grand Prix,norris,mclaren,4,9,5,5,10,71,Finished,+1:01.470,5032153,66,5,1:07.193,231.345
+2020,Styrian Grand Prix,perez,racing_point,11,17,6,6,8,71,Finished,+1:02.387,5033070,68,4,1:07.188,231.362
+2020,Styrian Grand Prix,stroll,racing_point,18,12,7,7,6,71,Finished,+1:02.453,5033136,65,10,1:07.833,229.162
+2020,Styrian Grand Prix,ricciardo,renault,3,8,8,8,4,71,Finished,+1:02.591,5033274,65,9,1:07.832,229.166
+2020,Styrian Grand Prix,sainz,mclaren,55,3,9,9,3,70,+1 Lap,,,68,1,1:05.619,236.894
+2020,Styrian Grand Prix,kvyat,alphatauri,26,13,10,10,1,70,+1 Lap,,,60,13,1:08.378,227.336
+2021,Bahrain Grand Prix,hamilton,mercedes,44,2,1,1,25,56,Finished,1:32:03.897,5523897,44,4,1:34.015,207.235
+2021,Bahrain Grand Prix,max_verstappen,red_bull,33,1,2,2,18,56,Finished,+0.745,5524642,41,2,1:33.228,208.984
+2021,Bahrain Grand Prix,bottas,mercedes,77,3,3,3,16,56,Finished,+37.383,5561280,56,1,1:32.090,211.566
+2021,Bahrain Grand Prix,norris,mclaren,4,7,4,4,12,56,Finished,+46.466,5570363,38,6,1:34.396,206.398
+2021,Bahrain Grand Prix,perez,red_bull,11,0,5,5,10,56,Finished,+52.047,5575944,44,3,1:33.970,207.334
+2021,Bahrain Grand Prix,leclerc,ferrari,16,4,6,6,8,56,Finished,+59.090,5582987,39,11,1:34.988,205.112
+2021,Bahrain Grand Prix,ricciardo,mclaren,3,6,7,7,6,56,Finished,+66.004,5589901,36,10,1:34.932,205.233
+2021,Bahrain Grand Prix,sainz,ferrari,55,8,8,8,4,56,Finished,+67.100,5590997,48,7,1:34.509,206.151
+2021,Bahrain Grand Prix,tsunoda,alphatauri,22,13,9,9,2,56,Finished,+85.692,5609589,38,8,1:34.761,205.603
+2021,Bahrain Grand Prix,stroll,aston_martin,18,10,10,10,1,56,Finished,+86.713,5610610,31,9,1:34.865,205.378
+2021,Bahrain Grand Prix,raikkonen,alfa,7,14,11,11,0,56,Finished,+88.864,5612761,45,14,1:35.192,204.672
+2021,Bahrain Grand Prix,giovinazzi,alfa,99,12,12,12,0,55,+1 Lap,,,32,13,1:35.122,204.823
+2021,Bahrain Grand Prix,ocon,alpine,31,16,13,13,0,55,+1 Lap,,,33,15,1:35.250,204.548
+2021,Bahrain Grand Prix,russell,williams,63,15,14,14,0,55,+1 Lap,,,40,12,1:35.036,205.008
+2021,Bahrain Grand Prix,vettel,aston_martin,5,20,15,15,0,55,+1 Lap,,,26,16,1:35.566,203.871
+2021,Bahrain Grand Prix,mick_schumacher,haas,47,18,16,16,0,55,+1 Lap,,,38,18,1:36.134,202.667
+2021,Bahrain Grand Prix,gasly,alphatauri,10,5,17,17,0,52,Retired,,,48,5,1:34.090,207.069
+2021,Bahrain Grand Prix,latifi,williams,6,17,18,18,0,51,Retired,,,16,19,1:36.602,201.685
+2021,Bahrain Grand Prix,alonso,alpine,14,9,19,R,0,32,Brakes,,,31,17,1:36.063,202.816
+2021,Bahrain Grand Prix,mazepin,haas,9,19,20,R,0,0,Accident,,,,,,
+2021,Emilia Romagna Grand Prix,max_verstappen,red_bull,33,3,1,1,25,63,Finished,2:02:34.598,7354598,60,2,1:17.524,227.960
+2021,Emilia Romagna Grand Prix,hamilton,mercedes,44,1,2,2,19,63,Finished,+22.000,7376598,60,1,1:16.702,230.403
+2021,Emilia Romagna Grand Prix,norris,mclaren,4,7,3,3,15,63,Finished,+23.702,7378300,63,3,1:18.259,225.819
+2021,Emilia Romagna Grand Prix,leclerc,ferrari,16,4,4,4,12,63,Finished,+25.579,7380177,60,6,1:18.379,225.473
+2021,Emilia Romagna Grand Prix,sainz,ferrari,55,11,5,5,10,63,Finished,+27.036,7381634,60,7,1:18.490,225.154
+2021,Emilia Romagna Grand Prix,ricciardo,mclaren,3,6,6,6,8,63,Finished,+51.220,7405818,54,12,1:19.341,222.739
+2021,Emilia Romagna Grand Prix,gasly,alphatauri,10,5,7,7,6,63,Finished,+52.818,7407416,52,9,1:18.994,223.718
+2021,Emilia Romagna Grand Prix,stroll,aston_martin,18,10,8,8,4,63,Finished,+56.909,7411507,59,8,1:18.782,224.320
+2021,Emilia Romagna Grand Prix,ocon,alpine,31,9,9,9,2,63,Finished,+65.704,7420302,62,15,1:19.422,222.512
+2021,Emilia Romagna Grand Prix,alonso,alpine,14,15,10,10,1,63,Finished,+66.561,7421159,62,14,1:19.417,222.526
+2022,Bahrain Grand Prix,leclerc,ferrari,16,1,1,1,26,57,Finished,1:37:33.584,5853584,51,1,1:34.570,206.018
+2022,Bahrain Grand Prix,sainz,ferrari,55,3,2,2,18,57,Finished,+5.598,5859182,52,3,1:35.740,203.501
+2022,Bahrain Grand Prix,hamilton,mercedes,44,5,3,3,15,57,Finished,+9.675,5863259,53,5,1:36.228,202.469
+2022,Bahrain Grand Prix,russell,mercedes,63,9,4,4,12,57,Finished,+11.211,5864795,56,6,1:36.302,202.313
+2022,Bahrain Grand Prix,kevin_magnussen,haas,20,7,5,5,10,57,Finished,+14.754,5868338,53,8,1:36.623,201.641
+2022,Bahrain Grand Prix,bottas,alfa,77,6,6,6,8,57,Finished,+16.119,5869703,53,7,1:36.599,201.691
+2022,Bahrain Grand Prix,ocon,alpine,31,11,7,7,6,57,Finished,+19.423,5873007,53,14,1:37.110,200.630
+2022,Bahrain Grand Prix,tsunoda,alphatauri,22,16,8,8,4,57,Finished,+20.386,5873970,53,13,1:37.104,200.642
+2022,Bahrain Grand Prix,alonso,alpine,14,8,9,9,2,57,Finished,+22.390,5875974,44,10,1:36.733,201.412
+2022,Bahrain Grand Prix,zhou,alfa,24,15,10,10,1,57,Finished,+23.064,5876648,39,9,1:36.685,201.512
+2022,Bahrain Grand Prix,mick_schumacher,haas,47,12,11,11,0,57,Finished,+32.574,5886158,37,11,1:36.956,200.948
+2022,Bahrain Grand Prix,stroll,aston_martin,18,19,12,12,0,57,Finished,+45.873,5899457,49,15,1:37.146,200.555
+2022,Bahrain Grand Prix,albon,williams,23,14,13,13,0,57,Finished,+53.932,5907516,50,18,1:37.355,200.125
+2022,Bahrain Grand Prix,ricciardo,mclaren,3,18,14,14,0,57,Finished,+54.975,5908559,50,16,1:37.261,200.318
+2022,Bahrain Grand Prix,norris,mclaren,4,13,15,15,0,57,Finished,+56.335,5909919,51,12,1:36.988,200.882
+2022,Bahrain Grand Prix,latifi,williams,6,20,16,16,0,57,Finished,+1:01.795,5915379,51,20,1:38.251,198.300
+2022,Bahrain Grand Prix,hulkenberg,aston_martin,27,17,17,17,0,57,Finished,+1:03.829,5917413,49,19,1:38.201,198.401
+2022,Bahrain Grand Prix,perez,red_bull,11,4,18,18,0,56,Fuel pressure,,,52,4,1:36.089,202.762
+2022,Bahrain Grand Prix,max_verstappen,red_bull,1,2,19,19,0,54,Fuel pressure,,,51,2,1:35.440,204.140
+2022,Bahrain Grand Prix,gasly,alphatauri,10,10,20,R,0,44,Power Unit,,,34,17,1:37.324,200.189
+2022,Saudi Arabian Grand Prix,max_verstappen,red_bull,1,4,1,1,25,50,Finished,1:24:19.293,5059293,50,2,1:31.772,242.191
+2022,Saudi Arabian Grand Prix,leclerc,ferrari,16,2,2,2,19,50,Finished,+0.549,5059842,48,1,1:31.634,242.556
+2022,Saudi Arabian Grand Prix,sainz,ferrari,55,3,3,3,15,50,Finished,+8.097,5067390,48,3,1:31.905,241.841
+2022,Saudi Arabian Grand Prix,perez,red_bull,11,1,4,4,12,50,Finished,+10.800,5070093,46,4,1:32.042,241.481
+2022,Saudi Arabian Grand Prix,russell,mercedes,63,6,5,5,10,50,Finished,+32.732,5092025,43,7,1:32.821,239.454
+2022,Saudi Arabian Grand Prix,ocon,alpine,31,5,6,6,8,50,Finished,+56.017,5115310,46,9,1:33.103,238.729
+2022,Saudi Arabian Grand Prix,norris,mclaren,4,11,7,7,6,50,Finished,+56.124,5115417,46,5,1:32.753,239.629
+2022,Saudi Arabian Grand Prix,gasly,alphatauri,10,9,8,8,4,50,Finished,+1:02.946,5122239,42,10,1:33.468,237.796
+2022,Saudi Arabian Grand Prix,kevin_magnussen,haas,20,10,9,9,2,50,Finished,+1:04.308,5123601,48,6,1:32.779,239.562
+2022,Saudi Arabian Grand Prix,hamilton,mercedes,44,15,10,10,1,50,Finished,+1:13.948,5133241,47,8,1:32.997,239.001

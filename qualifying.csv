@@ -1,277 +1,277 @@
-number,position,driverId,constructorId
-5,1,vettel,red_bull
-7,2,massa,ferrari
-8,3,alonso,ferrari
-2,4,hamilton,mclaren
-4,5,rosberg,mercedes
-6,6,webber,red_bull
-3,7,michael_schumacher,mercedes
-1,8,button,mclaren
-11,9,kubica,renault
-14,10,sutil,force_india
-9,11,barrichello,williams
-15,12,liuzzi,force_india
-10,13,hulkenberg,williams
-22,14,rosa,sauber
-16,15,buemi,toro_rosso
-23,16,kobayashi,sauber
-12,17,petrov,renault
-17,18,alguersuari,toro_rosso
-24,19,glock,virgin
-18,20,trulli,lotus_racing
-19,21,kovalainen,lotus_racing
-25,22,grassi,virgin
-21,23,bruno_senna,hrt
-20,24,chandhok,hrt
-1,1,vettel,red_bull
-3,2,hamilton,mclaren
-2,3,webber,red_bull
-4,4,button,mclaren
-5,5,alonso,ferrari
-10,6,petrov,renault
-8,7,rosberg,mercedes
-6,8,massa,ferrari
-16,9,kobayashi,sauber
-18,10,buemi,toro_rosso
-7,11,michael_schumacher,mercedes
-19,12,alguersuari,toro_rosso
-17,13,perez,sauber
-15,14,resta,force_india
-12,15,maldonado,williams
-14,16,sutil,force_india
-11,17,barrichello,williams
-9,18,heidfeld,renault
-20,19,kovalainen,lotus_racing
-21,20,trulli,lotus_racing
-24,21,glock,virgin
-25,22,ambrosio,virgin
-23,23,liuzzi,hrt
-22,24,karthikeyan,hrt
-4,1,hamilton,mclaren
-3,2,button,mclaren
-10,3,grosjean,lotus_f1
-7,4,michael_schumacher,mercedes
-2,5,webber,red_bull
-1,6,vettel,red_bull
-8,7,rosberg,mercedes
-18,8,maldonado,williams
-12,9,hulkenberg,force_india
-16,10,ricciardo,toro_rosso
-17,11,vergne,toro_rosso
-5,12,alonso,ferrari
-14,13,kobayashi,sauber
-19,14,bruno_senna,williams
-11,15,resta,force_india
-6,16,massa,ferrari
-15,17,perez,sauber
-9,18,raikkonen,lotus_f1
-20,19,kovalainen,caterham
-21,20,petrov,caterham
-24,21,glock,marussia
-25,22,pic,marussia
-22,23,rosa,hrt
-23,24,karthikeyan,hrt
-1,1,vettel,red_bull
-2,2,webber,red_bull
-10,3,hamilton,mercedes
-4,4,massa,ferrari
-3,5,alonso,ferrari
-9,6,rosberg,mercedes
-7,7,raikkonen,lotus_f1
-8,8,grosjean,lotus_f1
-14,9,resta,force_india
-5,10,button,mclaren
-11,11,hulkenberg,sauber
-15,12,sutil,force_india
-18,13,vergne,toro_rosso
-19,14,ricciardo,toro_rosso
-6,15,perez,mclaren
-17,16,bottas,williams
-16,17,maldonado,williams
-12,18,gutierrez,sauber
-22,19,jules_bianchi,marussia
-23,20,chilton,marussia
-21,21,garde,caterham
-20,22,pic,caterham
-44,1,hamilton,mercedes
-3,2,ricciardo,red_bull
-6,3,rosberg,mercedes
-20,4,kevin_magnussen,mclaren
-14,5,alonso,ferrari
-25,6,vergne,toro_rosso
-27,7,hulkenberg,force_india
-26,8,kvyat,toro_rosso
-19,9,massa,williams
-77,10,bottas,williams
-22,11,button,mclaren
-7,12,raikkonen,ferrari
-1,13,vettel,red_bull
-99,14,sutil,sauber
-10,15,kobayashi,caterham
-11,16,perez,force_india
-4,17,chilton,marussia
-17,18,jules_bianchi,marussia
-21,19,gutierrez,sauber
-9,20,ericsson,caterham
-8,21,grosjean,lotus_f1
-13,22,maldonado,lotus_f1
-44,1,hamilton,mercedes
-6,2,rosberg,mercedes
-19,3,massa,williams
-5,4,vettel,ferrari
-7,5,raikkonen,ferrari
-77,6,bottas,williams
-3,7,ricciardo,red_bull
-55,8,sainz,toro_rosso
-8,9,grosjean,lotus_f1
-13,10,maldonado,lotus_f1
-12,11,nasr,sauber
-33,12,max_verstappen,toro_rosso
-26,13,kvyat,red_bull
-27,14,hulkenberg,force_india
-11,15,perez,force_india
-9,16,ericsson,sauber
-22,17,button,mclaren
-20,18,kevin_magnussen,mclaren
-44,1,hamilton,mercedes
-6,2,rosberg,mercedes
-5,3,vettel,ferrari
-7,4,raikkonen,ferrari
-33,5,max_verstappen,toro_rosso
-19,6,massa,williams
-55,7,sainz,toro_rosso
-3,8,ricciardo,red_bull
-11,9,perez,force_india
-27,10,hulkenberg,force_india
-77,11,bottas,williams
-14,12,alonso,mclaren
-22,13,button,mclaren
-30,14,jolyon_palmer,renault
-20,15,kevin_magnussen,renault
-9,16,ericsson,sauber
-12,17,nasr,sauber
-26,18,kvyat,red_bull
-8,19,grosjean,haas
-21,20,gutierrez,haas
-88,21,haryanto,manor
-94,22,wehrlein,manor
-44,1,hamilton,mercedes
-5,2,vettel,ferrari
-77,3,bottas,mercedes
-7,4,raikkonen,ferrari
-33,5,max_verstappen,red_bull
-8,6,grosjean,haas
-19,7,massa,williams
-55,8,sainz,toro_rosso
-26,9,kvyat,toro_rosso
-3,10,ricciardo,red_bull
-11,11,perez,force_india
-27,12,hulkenberg,renault
-14,13,alonso,mclaren
-31,14,ocon,force_india
-9,15,ericsson,sauber
-36,16,giovinazzi,sauber
-20,17,kevin_magnussen,haas
-2,18,vandoorne,mclaren
-18,19,stroll,williams
-30,20,jolyon_palmer,renault
-44,1,hamilton,mercedes
-7,2,raikkonen,ferrari
-5,3,vettel,ferrari
-33,4,max_verstappen,red_bull
-3,5,ricciardo,red_bull
-20,6,kevin_magnussen,haas
-8,7,grosjean,haas
-27,8,hulkenberg,renault
-55,9,sainz,renault
-77,10,bottas,mercedes
-14,11,alonso,mclaren
-2,12,vandoorne,mclaren
-11,13,perez,force_india
-18,14,stroll,williams
-31,15,ocon,force_india
-28,16,brendon_hartley,toro_rosso
-9,17,ericsson,sauber
-16,18,leclerc,sauber
-35,19,sirotkin,williams
-10,20,gasly,toro_rosso
-44,1,hamilton,mercedes
-77,2,bottas,mercedes
-5,3,vettel,ferrari
-33,4,max_verstappen,red_bull
-16,5,leclerc,ferrari
-8,6,grosjean,haas
-20,7,kevin_magnussen,haas
-4,8,norris,mclaren
-7,9,raikkonen,alfa
-11,10,perez,racing_point
-27,11,hulkenberg,renault
-3,12,ricciardo,renault
-23,13,albon,toro_rosso
-99,14,giovinazzi,alfa
-26,15,kvyat,toro_rosso
-18,16,stroll,racing_point
-10,17,gasly,red_bull
-55,18,sainz,mclaren
-63,19,russell,williams
-88,20,kubica,williams
-77,1,bottas,mercedes
-44,2,hamilton,mercedes
-33,3,max_verstappen,red_bull
-4,4,norris,mclaren
-23,5,albon,red_bull
-11,6,perez,racing_point
-16,7,leclerc,ferrari
-55,8,sainz,mclaren
-18,9,stroll,racing_point
-3,10,ricciardo,renault
-5,11,vettel,ferrari
-10,12,gasly,alphatauri
-26,13,kvyat,alphatauri
-31,14,ocon,renault
-8,15,grosjean,haas
-20,16,kevin_magnussen,haas
-63,17,russell,williams
-99,18,giovinazzi,alfa
-7,19,raikkonen,alfa
-6,20,latifi,williams
-33,1,max_verstappen,red_bull
-44,2,hamilton,mercedes
-77,3,bottas,mercedes
-16,4,leclerc,ferrari
-10,5,gasly,alphatauri
-3,6,ricciardo,mclaren
-4,7,norris,mclaren
-55,8,sainz,ferrari
-14,9,alonso,alpine
-18,10,stroll,aston_martin
-11,11,perez,red_bull
-99,12,giovinazzi,alfa
-22,13,tsunoda,alphatauri
-7,14,raikkonen,alfa
-63,15,russell,williams
-31,16,ocon,alpine
-6,17,latifi,williams
-5,18,vettel,aston_martin
-47,19,mick_schumacher,haas
-9,20,mazepin,haas
-16,1,leclerc,ferrari
-1,2,max_verstappen,red_bull
-55,3,sainz,ferrari
-11,4,perez,red_bull
-44,5,hamilton,mercedes
-77,6,bottas,alfa
-20,7,kevin_magnussen,haas
-14,8,alonso,alpine
-63,9,russell,mercedes
-10,10,gasly,alphatauri
-31,11,ocon,alpine
-47,12,mick_schumacher,haas
-4,13,norris,mclaren
-23,14,albon,williams
-24,15,zhou,alfa
-22,16,tsunoda,alphatauri
-27,17,hulkenberg,aston_martin
-3,18,ricciardo,mclaren
-18,19,stroll,aston_martin
-6,20,latifi,williams
+season,round,raceId,driverId,constructorId,number,position,Q1,Q2,Q3
+2010,1,Bahrain Grand Prix,vettel,red_bull,5,1,1:55.029,1:53.883,1:54.101
+2010,1,Bahrain Grand Prix,massa,ferrari,7,2,1:55.313,1:54.331,1:54.242
+2010,1,Bahrain Grand Prix,alonso,ferrari,8,3,1:54.612,1:54.172,1:54.608
+2010,1,Bahrain Grand Prix,hamilton,mclaren,2,4,1:55.341,1:54.707,1:55.217
+2010,1,Bahrain Grand Prix,rosberg,mercedes,4,5,1:55.463,1:54.682,1:55.241
+2010,1,Bahrain Grand Prix,webber,red_bull,6,6,1:55.298,1:54.318,1:55.284
+2010,1,Bahrain Grand Prix,michael_schumacher,mercedes,3,7,1:55.593,1:55.105,1:55.524
+2010,1,Bahrain Grand Prix,button,mclaren,1,8,1:55.715,1:55.168,1:55.672
+2010,1,Bahrain Grand Prix,kubica,renault,11,9,1:55.511,1:54.963,1:55.885
+2010,1,Bahrain Grand Prix,sutil,force_india,14,10,1:55.213,1:54.996,1:56.309
+2010,1,Bahrain Grand Prix,barrichello,williams,9,11,1:55.969,1:55.330,
+2010,1,Bahrain Grand Prix,liuzzi,force_india,15,12,1:55.628,1:55.623,
+2010,1,Bahrain Grand Prix,hulkenberg,williams,10,13,1:56.375,1:55.857,
+2010,1,Bahrain Grand Prix,rosa,sauber,22,14,1:56.428,1:56.237,
+2010,1,Bahrain Grand Prix,buemi,toro_rosso,16,15,1:56.189,1:56.265,
+2010,1,Bahrain Grand Prix,kobayashi,sauber,23,16,1:56.541,1:56.270,
+2010,1,Bahrain Grand Prix,petrov,renault,12,17,1:56.167,1:56.619,
+2010,1,Bahrain Grand Prix,alguersuari,toro_rosso,17,18,1:57.071,,
+2010,1,Bahrain Grand Prix,glock,virgin,24,19,1:59.728,,
+2010,1,Bahrain Grand Prix,trulli,lotus_racing,18,20,1:59.852,,
+2010,1,Bahrain Grand Prix,kovalainen,lotus_racing,19,21,2:00.313,,
+2010,1,Bahrain Grand Prix,grassi,virgin,25,22,2:00.587,,
+2010,1,Bahrain Grand Prix,bruno_senna,hrt,21,23,2:03.204,,
+2010,1,Bahrain Grand Prix,chandhok,hrt,20,24,2:04.904,,
+2011,1,Australian Grand Prix,vettel,red_bull,1,1,1:25.296,1:24.090,1:23.529
+2011,1,Australian Grand Prix,hamilton,mclaren,3,2,1:25.384,1:24.595,1:24.307
+2011,1,Australian Grand Prix,webber,red_bull,2,3,1:25.900,1:24.658,1:24.395
+2011,1,Australian Grand Prix,button,mclaren,4,4,1:25.886,1:24.957,1:24.779
+2011,1,Australian Grand Prix,alonso,ferrari,5,5,1:25.707,1:25.242,1:24.974
+2011,1,Australian Grand Prix,petrov,renault,10,6,1:25.543,1:25.582,1:25.247
+2011,1,Australian Grand Prix,rosberg,mercedes,8,7,1:25.856,1:25.606,1:25.421
+2011,1,Australian Grand Prix,massa,ferrari,6,8,1:26.031,1:25.611,1:25.599
+2011,1,Australian Grand Prix,kobayashi,sauber,16,9,1:25.717,1:25.405,1:25.626
+2011,1,Australian Grand Prix,buemi,toro_rosso,18,10,1:26.232,1:25.882,1:27.066
+2011,1,Australian Grand Prix,michael_schumacher,mercedes,7,11,1:25.962,1:25.971,
+2011,1,Australian Grand Prix,alguersuari,toro_rosso,19,12,1:26.620,1:26.103,
+2011,1,Australian Grand Prix,perez,sauber,17,13,1:25.812,1:26.108,
+2011,1,Australian Grand Prix,resta,force_india,15,14,1:27.222,1:26.739,
+2011,1,Australian Grand Prix,maldonado,williams,12,15,1:26.298,1:26.768,
+2011,1,Australian Grand Prix,sutil,force_india,14,16,1:26.245,1:31.407,
+2011,1,Australian Grand Prix,barrichello,williams,11,17,1:26.270,,
+2011,1,Australian Grand Prix,heidfeld,renault,9,18,1:27.239,,
+2011,1,Australian Grand Prix,kovalainen,lotus_racing,20,19,1:29.254,,
+2011,1,Australian Grand Prix,trulli,lotus_racing,21,20,1:29.342,,
+2011,1,Australian Grand Prix,glock,virgin,24,21,1:29.858,,
+2011,1,Australian Grand Prix,ambrosio,virgin,25,22,1:30.822,,
+2011,1,Australian Grand Prix,liuzzi,hrt,23,23,1:32.978,,
+2011,1,Australian Grand Prix,karthikeyan,hrt,22,24,1:34.293,,
+2012,1,Australian Grand Prix,hamilton,mclaren,4,1,1:26.800,1:25.626,1:24.922
+2012,1,Australian Grand Prix,button,mclaren,3,2,1:26.832,1:25.663,1:25.074
+2012,1,Australian Grand Prix,grosjean,lotus_f1,10,3,1:26.498,1:25.845,1:25.302
+2012,1,Australian Grand Prix,michael_schumacher,mercedes,7,4,1:26.586,1:25.571,1:25.336
+2012,1,Australian Grand Prix,webber,red_bull,2,5,1:27.117,1:26.597,1:25.651
+2012,1,Australian Grand Prix,vettel,red_bull,1,6,1:26.773,1:25.982,1:25.668
+2012,1,Australian Grand Prix,rosberg,mercedes,8,7,1:26.763,1:25.469,1:25.686
+2012,1,Australian Grand Prix,maldonado,williams,18,8,1:26.803,1:26.206,1:25.908
+2012,1,Australian Grand Prix,hulkenberg,force_india,12,9,1:27.464,1:26.314,1:26.451
+2012,1,Australian Grand Prix,ricciardo,toro_rosso,16,10,1:27.024,1:26.319,
+2012,1,Australian Grand Prix,vergne,toro_rosso,17,11,1:26.493,1:26.429,
+2012,1,Australian Grand Prix,alonso,ferrari,5,12,1:26.688,1:26.494,
+2012,1,Australian Grand Prix,kobayashi,sauber,14,13,1:26.182,1:26.590,
+2012,1,Australian Grand Prix,bruno_senna,williams,19,14,1:27.004,1:26.663,
+2012,1,Australian Grand Prix,resta,force_india,11,15,1:27.469,1:27.086,
+2012,1,Australian Grand Prix,massa,ferrari,6,16,1:27.633,1:27.497,
+2012,1,Australian Grand Prix,perez,sauber,15,17,1:26.596,,
+2012,1,Australian Grand Prix,raikkonen,lotus_f1,9,18,1:27.758,,
+2012,1,Australian Grand Prix,kovalainen,caterham,20,19,1:28.679,,
+2012,1,Australian Grand Prix,petrov,caterham,21,20,1:29.018,,
+2012,1,Australian Grand Prix,glock,marussia,24,21,1:30.923,,
+2012,1,Australian Grand Prix,pic,marussia,25,22,1:31.670,,
+2012,1,Australian Grand Prix,rosa,hrt,22,23,1:33.495,,
+2012,1,Australian Grand Prix,karthikeyan,hrt,23,24,1:33.643,,
+2013,1,Australian Grand Prix,vettel,red_bull,1,1,1:44.657,1:36.745,1:27.407
+2013,1,Australian Grand Prix,webber,red_bull,2,2,1:44.472,1:36.524,1:27.827
+2013,1,Australian Grand Prix,hamilton,mercedes,10,3,1:45.456,1:36.625,1:28.087
+2013,1,Australian Grand Prix,massa,ferrari,4,4,1:44.635,1:36.666,1:28.490
+2013,1,Australian Grand Prix,alonso,ferrari,3,5,1:43.850,1:36.691,1:28.493
+2013,1,Australian Grand Prix,rosberg,mercedes,9,6,1:43.380,1:36.194,1:28.523
+2013,1,Australian Grand Prix,raikkonen,lotus_f1,7,7,1:45.545,1:37.517,1:28.738
+2013,1,Australian Grand Prix,grosjean,lotus_f1,8,8,1:44.284,1:37.641,1:29.013
+2013,1,Australian Grand Prix,resta,force_india,14,9,1:45.601,1:36.901,1:29.305
+2013,1,Australian Grand Prix,button,mclaren,5,10,1:44.688,1:36.644,1:30.357
+2013,1,Australian Grand Prix,hulkenberg,sauber,11,11,1:45.930,1:38.067,
+2013,1,Australian Grand Prix,sutil,force_india,15,12,1:47.330,1:38.134,
+2013,1,Australian Grand Prix,vergne,toro_rosso,18,13,1:44.871,1:38.778,
+2013,1,Australian Grand Prix,ricciardo,toro_rosso,19,14,1:46.450,1:39.042,
+2013,1,Australian Grand Prix,perez,mclaren,6,15,1:44.400,1:39.900,
+2013,1,Australian Grand Prix,bottas,williams,17,16,1:47.328,1:40.290,
+2013,1,Australian Grand Prix,maldonado,williams,16,17,1:47.614,,
+2013,1,Australian Grand Prix,gutierrez,sauber,12,18,1:47.776,,
+2013,1,Australian Grand Prix,jules_bianchi,marussia,22,19,1:48.147,,
+2013,1,Australian Grand Prix,chilton,marussia,23,20,1:48.909,,
+2013,1,Australian Grand Prix,garde,caterham,21,21,1:49.519,,
+2013,1,Australian Grand Prix,pic,caterham,20,22,1:50.626,,
+2014,1,Australian Grand Prix,hamilton,mercedes,44,1,1:31.699,1:42.890,1:44.231
+2014,1,Australian Grand Prix,ricciardo,red_bull,3,2,1:30.775,1:42.295,1:44.548
+2014,1,Australian Grand Prix,rosberg,mercedes,6,3,1:32.564,1:42.264,1:44.595
+2014,1,Australian Grand Prix,kevin_magnussen,mclaren,20,4,1:30.949,1:43.247,1:45.745
+2014,1,Australian Grand Prix,alonso,ferrari,14,5,1:31.388,1:42.805,1:45.819
+2014,1,Australian Grand Prix,vergne,toro_rosso,25,6,1:33.488,1:43.849,1:45.864
+2014,1,Australian Grand Prix,hulkenberg,force_india,27,7,1:33.893,1:43.658,1:46.030
+2014,1,Australian Grand Prix,kvyat,toro_rosso,26,8,1:33.777,1:44.331,1:47.368
+2014,1,Australian Grand Prix,massa,williams,19,9,1:31.228,1:44.242,1:48.079
+2014,1,Australian Grand Prix,bottas,williams,77,10,1:31.601,1:43.852,1:48.147
+2014,1,Australian Grand Prix,button,mclaren,22,11,1:31.396,1:44.437,
+2014,1,Australian Grand Prix,raikkonen,ferrari,7,12,1:32.439,1:44.494,
+2014,1,Australian Grand Prix,vettel,red_bull,1,13,1:31.931,1:44.688,
+2014,1,Australian Grand Prix,sutil,sauber,99,14,1:33.673,1:45.655,
+2014,1,Australian Grand Prix,kobayashi,caterham,10,15,1:34.274,1:45.867,
+2014,1,Australian Grand Prix,perez,force_india,11,16,1:34.141,1:47.293,
+2014,1,Australian Grand Prix,chilton,marussia,4,17,1:34.293,,
+2014,1,Australian Grand Prix,jules_bianchi,marussia,17,18,1:34.794,,
+2014,1,Australian Grand Prix,gutierrez,sauber,21,19,1:35.117,,
+2014,1,Australian Grand Prix,ericsson,caterham,9,20,1:35.157,,
+2014,1,Australian Grand Prix,grosjean,lotus_f1,8,21,1:36.993,,
+2014,1,Australian Grand Prix,maldonado,lotus_f1,13,22,,,
+2015,1,Australian Grand Prix,hamilton,mercedes,44,1,1:28.586,1:26.894,1:26.327
+2015,1,Australian Grand Prix,rosberg,mercedes,6,2,1:28.906,1:27.097,1:26.921
+2015,1,Australian Grand Prix,massa,williams,19,3,1:29.246,1:27.895,1:27.718
+2015,1,Australian Grand Prix,vettel,ferrari,5,4,1:29.307,1:27.742,1:27.757
+2015,1,Australian Grand Prix,raikkonen,ferrari,7,5,1:29.754,1:27.807,1:27.790
+2015,1,Australian Grand Prix,bottas,williams,77,6,1:29.641,1:27.796,1:28.087
+2015,1,Australian Grand Prix,ricciardo,red_bull,3,7,1:29.788,1:28.679,1:28.329
+2015,1,Australian Grand Prix,sainz,toro_rosso,55,8,1:29.597,1:28.601,1:28.510
+2015,1,Australian Grand Prix,grosjean,lotus_f1,8,9,1:29.537,1:28.589,1:28.560
+2015,1,Australian Grand Prix,maldonado,lotus_f1,13,10,1:29.847,1:28.726,1:29.480
+2015,1,Australian Grand Prix,nasr,sauber,12,11,1:30.430,1:28.800,
+2015,1,Australian Grand Prix,max_verstappen,toro_rosso,33,12,1:29.248,1:28.868,
+2015,1,Australian Grand Prix,kvyat,red_bull,26,13,1:30.402,1:29.070,
+2015,1,Australian Grand Prix,hulkenberg,force_india,27,14,1:29.651,1:29.208,
+2015,1,Australian Grand Prix,perez,force_india,11,15,1:29.990,1:29.209,
+2015,1,Australian Grand Prix,ericsson,sauber,9,16,1:31.376,,
+2015,1,Australian Grand Prix,button,mclaren,22,17,1:31.422,,
+2015,1,Australian Grand Prix,kevin_magnussen,mclaren,20,18,1:32.037,,
+2016,1,Australian Grand Prix,hamilton,mercedes,44,1,1:25.351,1:24.605,1:23.837
+2016,1,Australian Grand Prix,rosberg,mercedes,6,2,1:26.934,1:24.796,1:24.197
+2016,1,Australian Grand Prix,vettel,ferrari,5,3,1:26.945,1:25.257,1:24.675
+2016,1,Australian Grand Prix,raikkonen,ferrari,7,4,1:26.579,1:25.615,1:25.033
+2016,1,Australian Grand Prix,max_verstappen,toro_rosso,33,5,1:26.934,1:25.615,1:25.434
+2016,1,Australian Grand Prix,massa,williams,19,6,1:25.918,1:25.644,1:25.458
+2016,1,Australian Grand Prix,sainz,toro_rosso,55,7,1:27.057,1:25.384,1:25.582
+2016,1,Australian Grand Prix,ricciardo,red_bull,3,8,1:26.945,1:25.599,1:25.589
+2016,1,Australian Grand Prix,perez,force_india,11,9,1:26.607,1:25.753,
+2016,1,Australian Grand Prix,hulkenberg,force_india,27,10,1:26.550,1:25.865,
+2016,1,Australian Grand Prix,bottas,williams,77,11,1:27.135,1:25.961,
+2016,1,Australian Grand Prix,alonso,mclaren,14,12,1:26.537,1:26.125,
+2016,1,Australian Grand Prix,button,mclaren,22,13,1:26.740,1:26.304,
+2016,1,Australian Grand Prix,jolyon_palmer,renault,30,14,1:27.241,1:27.601,
+2016,1,Australian Grand Prix,kevin_magnussen,renault,20,15,1:27.297,1:27.742,
+2016,1,Australian Grand Prix,ericsson,sauber,9,16,1:27.435,,
+2016,1,Australian Grand Prix,nasr,sauber,12,17,1:27.958,,
+2016,1,Australian Grand Prix,kvyat,red_bull,26,18,1:28.006,,
+2016,1,Australian Grand Prix,grosjean,haas,8,19,1:28.322,,
+2016,1,Australian Grand Prix,gutierrez,haas,21,20,1:29.606,,
+2016,1,Australian Grand Prix,haryanto,manor,88,21,1:29.627,,
+2016,1,Australian Grand Prix,wehrlein,manor,94,22,1:29.642,,
+2017,1,Australian Grand Prix,hamilton,mercedes,44,1,1:24.191,1:23.251,1:22.188
+2017,1,Australian Grand Prix,vettel,ferrari,5,2,1:25.210,1:23.401,1:22.456
+2017,1,Australian Grand Prix,bottas,mercedes,77,3,1:24.514,1:23.215,1:22.481
+2017,1,Australian Grand Prix,raikkonen,ferrari,7,4,1:24.352,1:23.376,1:23.033
+2017,1,Australian Grand Prix,max_verstappen,red_bull,33,5,1:24.482,1:24.092,1:23.485
+2017,1,Australian Grand Prix,grosjean,haas,8,6,1:25.419,1:24.718,1:24.074
+2017,1,Australian Grand Prix,massa,williams,19,7,1:25.099,1:24.597,1:24.443
+2017,1,Australian Grand Prix,sainz,toro_rosso,55,8,1:25.542,1:24.997,1:24.487
+2017,1,Australian Grand Prix,kvyat,toro_rosso,26,9,1:25.970,1:24.864,1:24.512
+2017,1,Australian Grand Prix,ricciardo,red_bull,3,10,1:25.383,1:23.989,
+2017,1,Australian Grand Prix,perez,force_india,11,11,1:25.064,1:25.081,
+2017,1,Australian Grand Prix,hulkenberg,renault,27,12,1:24.975,1:25.091,
+2017,1,Australian Grand Prix,alonso,mclaren,14,13,1:25.872,1:25.425,
+2017,1,Australian Grand Prix,ocon,force_india,31,14,1:26.009,1:25.568,
+2017,1,Australian Grand Prix,ericsson,sauber,9,15,1:26.236,1:26.465,
+2017,1,Australian Grand Prix,giovinazzi,sauber,36,16,1:26.419,,
+2017,1,Australian Grand Prix,kevin_magnussen,haas,20,17,1:26.847,,
+2017,1,Australian Grand Prix,vandoorne,mclaren,2,18,1:26.858,,
+2017,1,Australian Grand Prix,stroll,williams,18,19,1:27.143,,
+2017,1,Australian Grand Prix,jolyon_palmer,renault,30,20,1:28.244,,
+2018,1,Australian Grand Prix,hamilton,mercedes,44,1,1:22.824,1:22.051,1:21.164
+2018,1,Australian Grand Prix,raikkonen,ferrari,7,2,1:23.096,1:22.507,1:21.828
+2018,1,Australian Grand Prix,vettel,ferrari,5,3,1:23.348,1:21.944,1:21.838
+2018,1,Australian Grand Prix,max_verstappen,red_bull,33,4,1:23.483,1:22.416,1:21.879
+2018,1,Australian Grand Prix,ricciardo,red_bull,3,5,1:23.494,1:22.897,1:22.152
+2018,1,Australian Grand Prix,kevin_magnussen,haas,20,6,1:23.909,1:23.300,1:23.187
+2018,1,Australian Grand Prix,grosjean,haas,8,7,1:23.671,1:23.468,1:23.339
+2018,1,Australian Grand Prix,hulkenberg,renault,27,8,1:23.782,1:23.544,1:23.532
+2018,1,Australian Grand Prix,sainz,renault,55,9,1:23.529,1:23.061,1:23.577
+2018,1,Australian Grand Prix,bottas,mercedes,77,10,1:23.686,1:22.089,
+2018,1,Australian Grand Prix,alonso,mclaren,14,11,1:23.597,1:23.692,
+2018,1,Australian Grand Prix,vandoorne,mclaren,2,12,1:24.073,1:23.853,
+2018,1,Australian Grand Prix,perez,force_india,11,13,1:24.344,1:24.005,
+2018,1,Australian Grand Prix,stroll,williams,18,14,1:24.464,1:24.230,
+2018,1,Australian Grand Prix,ocon,force_india,31,15,1:24.503,1:24.786,
+2018,1,Australian Grand Prix,brendon_hartley,toro_rosso,28,16,1:24.532,,
+2018,1,Australian Grand Prix,ericsson,sauber,9,17,1:24.556,,
+2018,1,Australian Grand Prix,leclerc,sauber,16,18,1:24.636,,
+2018,1,Australian Grand Prix,sirotkin,williams,35,19,1:24.922,,
+2018,1,Australian Grand Prix,gasly,toro_rosso,10,20,1:25.295,,
+2019,1,Australian Grand Prix,hamilton,mercedes,44,1,1:22.043,1:21.014,1:20.486
+2019,1,Australian Grand Prix,bottas,mercedes,77,2,1:22.367,1:21.193,1:20.598
+2019,1,Australian Grand Prix,vettel,ferrari,5,3,1:22.885,1:21.912,1:21.190
+2019,1,Australian Grand Prix,max_verstappen,red_bull,33,4,1:22.876,1:21.678,1:21.320
+2019,1,Australian Grand Prix,leclerc,ferrari,16,5,1:22.017,1:21.739,1:21.442
+2019,1,Australian Grand Prix,grosjean,haas,8,6,1:22.959,1:21.870,1:21.826
+2019,1,Australian Grand Prix,kevin_magnussen,haas,20,7,1:22.519,1:22.221,1:22.099
+2019,1,Australian Grand Prix,norris,mclaren,4,8,1:22.702,1:22.423,1:22.304
+2019,1,Australian Grand Prix,raikkonen,alfa,7,9,1:22.966,1:22.349,1:22.314
+2019,1,Australian Grand Prix,perez,racing_point,11,10,1:22.908,1:22.532,1:22.781
+2019,1,Australian Grand Prix,hulkenberg,renault,27,11,1:22.540,1:22.562,
+2019,1,Australian Grand Prix,ricciardo,renault,3,12,1:22.921,1:22.570,
+2019,1,Australian Grand Prix,albon,toro_rosso,23,13,1:22.757,1:22.636,
+2019,1,Australian Grand Prix,giovinazzi,alfa,99,14,1:22.431,1:22.714,
+2019,1,Australian Grand Prix,kvyat,toro_rosso,26,15,1:22.511,1:22.774,
+2019,1,Australian Grand Prix,stroll,racing_point,18,16,1:23.017,,
+2019,1,Australian Grand Prix,gasly,red_bull,10,17,1:23.020,,
+2019,1,Australian Grand Prix,sainz,mclaren,55,18,1:23.084,,
+2019,1,Australian Grand Prix,russell,williams,63,19,1:24.360,,
+2019,1,Australian Grand Prix,kubica,williams,88,20,1:26.067,,
+2020,1,Austrian Grand Prix,bottas,mercedes,77,1,1:04.111,1:03.015,1:02.939
+2020,1,Austrian Grand Prix,hamilton,mercedes,44,2,1:04.198,1:03.096,1:02.951
+2020,1,Austrian Grand Prix,max_verstappen,red_bull,33,3,1:04.024,1:04.000,1:03.477
+2020,1,Austrian Grand Prix,norris,mclaren,4,4,1:04.606,1:03.819,1:03.626
+2020,1,Austrian Grand Prix,albon,red_bull,23,5,1:04.661,1:03.746,1:03.868
+2020,1,Austrian Grand Prix,perez,racing_point,11,6,1:04.543,1:03.860,1:03.868
+2020,1,Austrian Grand Prix,leclerc,ferrari,16,7,1:04.500,1:04.041,1:03.923
+2020,1,Austrian Grand Prix,sainz,mclaren,55,8,1:04.537,1:03.971,1:03.971
+2020,1,Austrian Grand Prix,stroll,racing_point,18,9,1:04.309,1:03.955,1:04.029
+2020,1,Austrian Grand Prix,ricciardo,renault,3,10,1:04.556,1:04.023,1:04.239
+2020,1,Austrian Grand Prix,vettel,ferrari,5,11,1:04.554,1:04.206,
+2020,1,Austrian Grand Prix,gasly,alphatauri,10,12,1:04.603,1:04.305,
+2020,1,Austrian Grand Prix,kvyat,alphatauri,26,13,1:05.031,1:04.431,
+2020,1,Austrian Grand Prix,ocon,renault,31,14,1:04.933,1:04.643,
+2020,1,Austrian Grand Prix,grosjean,haas,8,15,1:05.094,1:04.691,
+2020,1,Austrian Grand Prix,kevin_magnussen,haas,20,16,1:05.164,,
+2020,1,Austrian Grand Prix,russell,williams,63,17,1:05.167,,
+2020,1,Austrian Grand Prix,giovinazzi,alfa,99,18,1:05.175,,
+2020,1,Austrian Grand Prix,raikkonen,alfa,7,19,1:05.224,,
+2020,1,Austrian Grand Prix,latifi,williams,6,20,1:05.757,,
+2021,1,Bahrain Grand Prix,max_verstappen,red_bull,33,1,1:30.499,1:30.318,1:28.997
+2021,1,Bahrain Grand Prix,hamilton,mercedes,44,2,1:30.617,1:30.085,1:29.385
+2021,1,Bahrain Grand Prix,bottas,mercedes,77,3,1:31.200,1:30.186,1:29.586
+2021,1,Bahrain Grand Prix,leclerc,ferrari,16,4,1:30.691,1:30.010,1:29.678
+2021,1,Bahrain Grand Prix,gasly,alphatauri,10,5,1:30.848,1:30.513,1:29.809
+2021,1,Bahrain Grand Prix,ricciardo,mclaren,3,6,1:30.795,1:30.222,1:29.927
+2021,1,Bahrain Grand Prix,norris,mclaren,4,7,1:30.902,1:30.099,1:29.974
+2021,1,Bahrain Grand Prix,sainz,ferrari,55,8,1:31.653,1:30.009,1:30.215
+2021,1,Bahrain Grand Prix,alonso,alpine,14,9,1:30.863,1:30.595,1:30.249
+2021,1,Bahrain Grand Prix,stroll,aston_martin,18,10,1:31.261,1:30.624,1:30.601
+2021,1,Bahrain Grand Prix,perez,red_bull,11,11,1:31.165,1:30.659,
+2021,1,Bahrain Grand Prix,giovinazzi,alfa,99,12,1:30.998,1:30.708,
+2021,1,Bahrain Grand Prix,tsunoda,alphatauri,22,13,1:30.607,1:31.203,
+2021,1,Bahrain Grand Prix,raikkonen,alfa,7,14,1:31.547,1:31.238,
+2021,1,Bahrain Grand Prix,russell,williams,63,15,1:31.316,1:33.430,
+2021,1,Bahrain Grand Prix,ocon,alpine,31,16,1:31.724,,
+2021,1,Bahrain Grand Prix,latifi,williams,6,17,1:31.936,,
+2021,1,Bahrain Grand Prix,vettel,aston_martin,5,18,1:32.056,,
+2021,1,Bahrain Grand Prix,mick_schumacher,haas,47,19,1:32.449,,
+2021,1,Bahrain Grand Prix,mazepin,haas,9,20,1:33.273,,
+2022,1,Bahrain Grand Prix,leclerc,ferrari,16,1,1:31.471,1:30.932,1:30.558
+2022,1,Bahrain Grand Prix,max_verstappen,red_bull,1,2,1:31.785,1:30.757,1:30.681
+2022,1,Bahrain Grand Prix,sainz,ferrari,55,3,1:31.567,1:30.787,1:30.687
+2022,1,Bahrain Grand Prix,perez,red_bull,11,4,1:32.311,1:31.008,1:30.921
+2022,1,Bahrain Grand Prix,hamilton,mercedes,44,5,1:32.285,1:31.048,1:31.238
+2022,1,Bahrain Grand Prix,bottas,alfa,77,6,1:31.919,1:31.717,1:31.560
+2022,1,Bahrain Grand Prix,kevin_magnussen,haas,20,7,1:31.955,1:31.461,1:31.808
+2022,1,Bahrain Grand Prix,alonso,alpine,14,8,1:32.346,1:31.621,1:32.195
+2022,1,Bahrain Grand Prix,russell,mercedes,63,9,1:32.269,1:31.252,1:32.216
+2022,1,Bahrain Grand Prix,gasly,alphatauri,10,10,1:32.096,1:31.635,1:32.338
+2022,1,Bahrain Grand Prix,ocon,alpine,31,11,1:32.041,1:31.782,
+2022,1,Bahrain Grand Prix,mick_schumacher,haas,47,12,1:32.380,1:31.998,
+2022,1,Bahrain Grand Prix,norris,mclaren,4,13,1:32.239,1:32.008,
+2022,1,Bahrain Grand Prix,albon,williams,23,14,1:32.726,1:32.664,
+2022,1,Bahrain Grand Prix,zhou,alfa,24,15,1:32.493,1:33.543,
+2022,1,Bahrain Grand Prix,tsunoda,alphatauri,22,16,1:32.750,,
+2022,1,Bahrain Grand Prix,hulkenberg,aston_martin,27,17,1:32.777,,
+2022,1,Bahrain Grand Prix,ricciardo,mclaren,3,18,1:32.945,,
+2022,1,Bahrain Grand Prix,stroll,aston_martin,18,19,1:33.032,,
+2022,1,Bahrain Grand Prix,latifi,williams,6,20,1:33.634,,

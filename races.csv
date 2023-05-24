@@ -1,4 +1,4 @@
-,season,round,raceName,circuitId,lat,long,country,date,url
+,season,round,raceId,circuitId,lat,long,country,date,url
 0,2010,1,Bahrain Grand Prix,bahrain,26.0325,50.5106,Bahrain,2010-03-14,http://en.wikipedia.org/wiki/2010_Bahrain_Grand_Prix
 1,2010,2,Australian Grand Prix,albert_park,-37.8497,144.968,Australia,2010-03-28,http://en.wikipedia.org/wiki/2010_Australian_Grand_Prix
 2,2010,3,Malaysian Grand Prix,sepang,2.76083,101.738,Malaysia,2010-04-04,http://en.wikipedia.org/wiki/2010_Malaysian_Grand_Prix

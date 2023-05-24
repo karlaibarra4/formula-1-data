@@ -1,0 +1,277 @@
+constructorId,points,status
+ferrari,25.0,Finished
+ferrari,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+mercedes,10.0,Finished
+mercedes,8.0,Finished
+mclaren,6.0,Finished
+red_bull,4.0,Finished
+force_india,2.0,Finished
+williams,1.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+toro_rosso,0.0,Finished
+williams,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+toro_rosso,0.0,Electrical
+lotus_racing,0.0,Hydraulics
+sauber,0.0,Hydraulics
+hrt,0.0,Overheating
+virgin,0.0,Gearbox
+renault,0.0,Suspension
+sauber,0.0,Hydraulics
+virgin,0.0,Hydraulics
+hrt,0.0,Accident
+red_bull,25.0,Finished
+mclaren,18.0,Finished
+renault,15.0,Finished
+ferrari,12.0,Finished
+red_bull,10.0,Finished
+mclaren,8.0,Finished
+ferrari,6.0,Finished
+toro_rosso,4.0,+1 Lap
+force_india,2.0,+1 Lap
+force_india,1.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+renault,0.0,+1 Lap
+lotus_racing,0.0,+2 Laps
+virgin,0.0,+4 Laps
+virgin,0.0,+9 Laps
+williams,0.0,Transmission
+mercedes,0.0,Collision
+lotus_racing,0.0,Water leak
+mercedes,0.0,Collision
+williams,0.0,Transmission
+sauber,0.0,Disqualified
+sauber,0.0,Disqualified
+hrt,0.0,Did not qualify
+hrt,0.0,Did not qualify
+mclaren,25.0,Finished
+red_bull,18.0,Finished
+mclaren,15.0,Finished
+red_bull,12.0,Finished
+ferrari,10.0,Finished
+sauber,8.0,Finished
+lotus_f1,6.0,Finished
+sauber,4.0,Finished
+toro_rosso,2.0,Finished
+force_india,1.0,Finished
+toro_rosso,0.0,Finished
+mercedes,0.0,Finished
+williams,0.0,Accident
+marussia,0.0,+1 Lap
+marussia,0.0,+5 Laps
+williams,0.0,Collision
+ferrari,0.0,Collision
+caterham,0.0,Suspension
+caterham,0.0,Steering
+mercedes,0.0,Gearbox
+lotus_f1,0.0,Collision
+force_india,0.0,Collision
+hrt,0.0,Did not qualify
+hrt,0.0,Did not qualify
+lotus_f1,25.0,Finished
+ferrari,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+mercedes,10.0,Finished
+red_bull,8.0,Finished
+force_india,6.0,Finished
+force_india,4.0,Finished
+mclaren,2.0,Finished
+lotus_f1,1.0,Finished
+mclaren,0.0,Finished
+toro_rosso,0.0,Finished
+sauber,0.0,+1 Lap
+williams,0.0,+1 Lap
+marussia,0.0,+1 Lap
+caterham,0.0,+2 Laps
+marussia,0.0,+2 Laps
+caterham,0.0,+2 Laps
+toro_rosso,0.0,Hydraulics
+mercedes,0.0,Electrical
+williams,0.0,Spun off
+sauber,0.0,Fuel system
+mercedes,25.0,Finished
+mclaren,18.0,Finished
+mclaren,15.0,Finished
+ferrari,12.0,Finished
+williams,10.0,Finished
+force_india,8.0,Finished
+ferrari,6.0,Finished
+toro_rosso,4.0,Finished
+toro_rosso,2.0,Finished
+force_india,1.0,Finished
+sauber,0.0,+1 Lap
+sauber,0.0,+1 Lap
+marussia,0.0,+2 Laps
+marussia,0.0,+8 Laps
+lotus_f1,0.0,ERS
+lotus_f1,0.0,ERS
+caterham,0.0,Oil pressure
+red_bull,0.0,Engine
+mercedes,0.0,Engine
+williams,0.0,Collision
+caterham,0.0,Collision
+red_bull,0.0,Disqualified
+mercedes,25.0,Finished
+mercedes,18.0,Finished
+ferrari,15.0,Finished
+williams,12.0,Finished
+sauber,10.0,Finished
+red_bull,8.0,+1 Lap
+force_india,6.0,+1 Lap
+sauber,4.0,+1 Lap
+toro_rosso,2.0,+1 Lap
+force_india,1.0,+1 Lap
+mclaren,0.0,+2 Laps
+ferrari,0.0,Wheel
+toro_rosso,0.0,Engine
+lotus_f1,0.0,Power loss
+lotus_f1,0.0,Accident
+red_bull,0.0,Withdrew
+mclaren,0.0,Withdrew
+williams,0.0,Withdrew
+mercedes,25.0,Finished
+mercedes,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+williams,10.0,Finished
+haas,8.0,Finished
+force_india,6.0,Finished
+williams,4.0,Finished
+toro_rosso,2.0,Finished
+toro_rosso,1.0,Finished
+renault,0.0,Finished
+renault,0.0,Finished
+force_india,0.0,Finished
+mclaren,0.0,+1 Lap
+sauber,0.0,+1 Lap
+manor,0.0,+1 Lap
+sauber,0.0,Engine
+ferrari,0.0,Engine
+manor,0.0,Mechanical
+haas,0.0,Collision
+mclaren,0.0,Collision
+red_bull,0.0,Retired
+ferrari,25.0,Finished
+mercedes,18.0,Finished
+mercedes,15.0,Finished
+ferrari,12.0,Finished
+red_bull,10.0,Finished
+williams,8.0,Finished
+force_india,6.0,+1 Lap
+toro_rosso,4.0,+1 Lap
+toro_rosso,2.0,+1 Lap
+force_india,1.0,+1 Lap
+renault,0.0,+1 Lap
+sauber,0.0,+2 Laps
+mclaren,0.0,+2 Laps
+mclaren,0.0,Vibrations
+haas,0.0,Suspension
+williams,0.0,Brakes
+red_bull,0.0,Power Unit
+sauber,0.0,Hydraulics
+renault,0.0,Brakes
+haas,0.0,Water leak
+ferrari,25.0,Finished
+mercedes,18.0,Finished
+ferrari,15.0,Finished
+red_bull,12.0,Finished
+mclaren,10.0,Finished
+red_bull,8.0,Finished
+renault,6.0,Finished
+mercedes,4.0,Finished
+mclaren,2.0,Finished
+renault,1.0,Finished
+force_india,0.0,Finished
+force_india,0.0,Finished
+sauber,0.0,Finished
+williams,0.0,Finished
+toro_rosso,0.0,+1 Lap
+haas,0.0,Wheel
+haas,0.0,Wheel
+toro_rosso,0.0,Engine
+sauber,0.0,Steering
+williams,0.0,Brakes
+mercedes,26.0,Finished
+mercedes,18.0,Finished
+red_bull,15.0,Finished
+ferrari,12.0,Finished
+ferrari,10.0,Finished
+haas,8.0,Finished
+renault,6.0,+1 Lap
+alfa,4.0,+1 Lap
+racing_point,2.0,+1 Lap
+toro_rosso,1.0,+1 Lap
+red_bull,0.0,+1 Lap
+mclaren,0.0,+1 Lap
+racing_point,0.0,+1 Lap
+toro_rosso,0.0,+1 Lap
+alfa,0.0,+1 Lap
+williams,0.0,+2 Laps
+williams,0.0,+3 Laps
+haas,0.0,Wheel
+renault,0.0,Damage
+mclaren,0.0,Engine
+mercedes,25.0,Finished
+ferrari,18.0,Finished
+mclaren,16.0,Finished
+mercedes,12.0,Finished
+mclaren,10.0,Finished
+racing_point,8.0,Finished
+alphatauri,6.0,Finished
+renault,4.0,Finished
+alfa,2.0,Finished
+ferrari,1.0,Finished
+williams,0.0,Finished
+alphatauri,0.0,Suspension
+red_bull,0.0,Electronics
+alfa,0.0,Wheel
+williams,0.0,Fuel pressure
+haas,0.0,Brakes
+haas,0.0,Brakes
+racing_point,0.0,Engine
+renault,0.0,Overheating
+red_bull,0.0,Electronics
+mercedes,25.0,Finished
+red_bull,18.0,Finished
+mercedes,16.0,Finished
+mclaren,12.0,Finished
+red_bull,10.0,Finished
+ferrari,8.0,Finished
+mclaren,6.0,Finished
+ferrari,4.0,Finished
+alphatauri,2.0,Finished
+aston_martin,1.0,Finished
+alfa,0.0,Finished
+alfa,0.0,+1 Lap
+alpine,0.0,+1 Lap
+williams,0.0,+1 Lap
+aston_martin,0.0,+1 Lap
+haas,0.0,+1 Lap
+alphatauri,0.0,Retired
+williams,0.0,Retired
+alpine,0.0,Brakes
+haas,0.0,Accident
+ferrari,26.0,Finished
+ferrari,18.0,Finished
+mercedes,15.0,Finished
+mercedes,12.0,Finished
+haas,10.0,Finished
+alfa,8.0,Finished
+alpine,6.0,Finished
+alphatauri,4.0,Finished
+alpine,2.0,Finished
+alfa,1.0,Finished
+haas,0.0,Finished
+aston_martin,0.0,Finished
+williams,0.0,Finished
+mclaren,0.0,Finished
+mclaren,0.0,Finished
+williams,0.0,Finished
+aston_martin,0.0,Finished
+red_bull,0.0,Fuel pressure
+red_bull,0.0,Fuel pressure
+alphatauri,0.0,Power Unit
